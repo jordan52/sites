@@ -4,14 +4,24 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
-
-
 var fs = require('fs');
 var url = require('url');
 var markdown = require('marked');
+var session = require('express-session');
+var flash = require('express-flash');
+var stylus = require('stylus');
+var bootstrap = require('bootstrap-styl');
 
+/* ROUTES */
 var routes = require('./routes/index');
 var users = require('./routes/users');
+
+/* CONFIGURATION */
+
+var markdownDir = __dirname + '/markdown';
+markdownDir = path.resolve(markdownDir);
+
+var config = require('./config');
 
 var app = express();
 
@@ -25,29 +35,47 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(require('stylus').middleware(path.join(__dirname, 'public')));
+app.use(session({
+    resave: true,
+    saveUninitialized: true,
+    secret: config.sessionSecret,
+    //store: new MongoStore({ url: secrets.db, autoReconnect: true })
+}));
+//set up stylus to use bootstrap-styl
+app.use(stylus.middleware({
+    dest: path.join(__dirname, 'public'),
+    src: path.join(__dirname, 'public'),
+    compile: function (str, path) {
+        return stylus(str)
+            .set('filename', path)
+            .set('compress', true)
+            .use(bootstrap());
+    }
+}));
+
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(flash());
 
 app.use('/', routes);
 app.use('/users', users);
 
-//special thanks to https://github.com/JamesHight/express-markdown
+
 app.use(function(req, res, next) {
-    var dir = __dirname + '/markdown';
-    dir = path.resolve(dir);
 
-    var file = req.url.toString(),
-        fileLower = file.toLowerCase();
+    var file = req.url.toString();
+    var file = file.toLowerCase();
 
-    if (fileLower.slice(-3) !== '.md' && fileLower.slice(-9) !== '.markdown')
+    if (file.slice(-5) !== '.html')
         return next();
 
-    file = dir + '/' + url.parse(file).pathname;
+    file = url.parse(file)
+    file = file.pathname.replace(/.html/i, '.md');
+    file = markdownDir + file
     file = path.resolve(file);
 
-    // make sure the final path is in our defined directory
-    if (file.substr(0, dir.length) !== dir)
-        return res.send(400);
+    // does the file exist?
+    if (file.substr(0, markdownDir.length) !== markdownDir)
+        return next();
 
     fs.exists(file, function(exists) {
         if (!exists)
@@ -62,10 +90,8 @@ app.use(function(req, res, next) {
 
             context['markdown'] = data;
             res.render('site', context);
-
         });
     });
-
 });
 
 
