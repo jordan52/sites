@@ -18,5 +18,12 @@
     "express-flash": "^0.0.2",
     "express-session": "^1.9.3",
     "bootstrap-styl": "*"
-  }
+  },
+  "devDependencies": {
+        "blessed": "^0.0.37",
+        "chai": "^1.10.0",
+        "mocha": "^2.0.1",
+        "multiline": "^1.0.1",
+        "supertest": "^0.15.0"
+    }
 }
