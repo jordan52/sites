@@ -14,10 +14,11 @@
     "debug": "~2.0.0",
     "jade": "~1.6.0",
     "stylus": "*",
-    "marked": "~0.3.2",
+    "marked-metadata": "*",
     "express-flash": "^0.0.2",
     "express-session": "^1.9.3",
-    "bootstrap-styl": "*"
+    "bootstrap-styl": "*",
+    "lodash": "^2.4.1"
   },
   "devDependencies": {
         "blessed": "^0.0.37",

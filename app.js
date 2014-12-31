@@ -6,7 +6,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var fs = require('fs');
 var url = require('url');
-var markdown = require('marked');
+var markdown = require('marked-metadata');
 var session = require('express-session');
 var flash = require('express-flash');
 var stylus = require('stylus');
@@ -15,6 +15,7 @@ var bootstrap = require('bootstrap-styl');
 /* ROUTES */
 var routes = require('./routes/index');
 var users = require('./routes/users');
+var pages = require('./routes/pages');
 
 /* CONFIGURATION */
 
@@ -38,7 +39,7 @@ app.use(cookieParser());
 app.use(session({
     resave: true,
     saveUninitialized: true,
-    secret: config.sessionSecret,
+    secret: config.sessionSecret
     //store: new MongoStore({ url: secrets.db, autoReconnect: true })
 }));
 //set up stylus to use bootstrap-styl
@@ -58,6 +59,7 @@ app.use(flash());
 
 app.use('/', routes);
 app.use('/users', users);
+app.use('/pages', pages);
 
 
 app.use(function(req, res, next) {
@@ -81,16 +83,24 @@ app.use(function(req, res, next) {
         if (!exists)
             return next();
 
-        fs.readFile(file, 'utf8', function(err, data) {
+        var context = {};
+
+        md = new markdown(file);
+        context['markdown'] = md.markdown();
+
+        context['metadata'] = md.metadata().title;
+        res.render('site', context);
+
+        /*fs.readFile(file, 'utf8', function(err, data) {
             var context = {};
             if(err)
                 return next(err);
 
             data = markdown(data);
 
-            context['markdown'] = data;
+            context['markdown'] = data.markdown();
             res.render('site', context);
-        });
+        });*/
     });
 });
 
