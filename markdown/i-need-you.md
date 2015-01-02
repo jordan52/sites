@@ -7,7 +7,8 @@
     "modified": "2014-12-01",
     "type":"story",
     "categories": [
-        "story"
+        "creative nonfiction",
+        "stories"
     ],
     "tags": [
         "fun",

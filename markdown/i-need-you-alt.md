@@ -7,7 +7,7 @@
     "modified": "2014-12-01",
     "type":"story",
     "categories": [
-        "story"
+        "stories"
     ],
     "tags": [
         "fun",

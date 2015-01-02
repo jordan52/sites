@@ -31,8 +31,28 @@ exports = module.exports = function (app){
         async.map(files, getMetadata, function(err, results){
             pages = results;
             // This happens here so we can use the varialbes in jade templates (like, the global header.
-            app.locals.pageLinks = _.map(_.filter(pages,function(page) {return page.metadata.type != 'blog';}), function(page) { return {title:page.metadata.shortTitle,link:page.link};});
-            app.locals.s
+            app.locals.pageLinks = _.map(_.filter(pages,function(page) {return page.metadata.type != 'blog';}), function(page) { return {title:page.metadata.shortTitle,link:page.link, categories: page.metadata.categories};});
+            app.locals.pageCategories = _.uniq(_.flatten(_.map(app.locals.pageLinks, function(pageLink) {
+                return pageLink.categories;
+            },{})));
+            var catPageLinks = {};
+            // make a category -> pageLink data structure
+            for(i=0; i < app.locals.pageLinks.length;i++){
+                if(app.locals.pageLinks[i].categories) {
+                    for (j = 0; j < app.locals.pageLinks[i].categories.length; j++) {
+                        var cat = app.locals.pageLinks[i].categories[j];
+                        if (!catPageLinks[cat]) catPageLinks[cat] = [];
+                        catPageLinks[cat][catPageLinks[cat].length] = app.locals.pageLinks[i];
+                    }
+                } else {
+                    var cat = 'uncategorized';
+                    if (!catPageLinks[cat]) catPageLinks[cat] = [];
+                    catPageLinks[cat][catPageLinks[cat].length] = app.locals.pageLinks[i];
+                }
+            }
+            app.locals.pageLinksByCategory = catPageLinks;
+
+            app.locals.blogPostLinks = _.map(_.sortBy(_.filter(pages,function(page) {return page.metadata.type == 'blog';}), 'metadata.created').reverse(), function(page) { return {title:page.metadata.shortTitle,link:page.link};});
         });
     });
 
@@ -42,11 +62,11 @@ exports = module.exports = function (app){
             return app.locals.pageLinks;
         },
         getAllBlogPostLinks: function(){
-            return _.map(_.sortBy(_.filter(pages,function(page) {return page.metadata.type == 'blog';}), 'metadata.created').reverse(), function(page) { return {title:page.metadata.shortTitle,link:page.link};});
+            return app.locals.blogPostLinks;
         },
         getAllBlogPosts: function(){
             //return _.filter(pages,function(page) {return page.metadata.type == 'blog';});
-            return _.sortBy(_.filter(pages,function(page) {return page.metadata.type == 'blog';}), 'metadata.created').reverse();
+            return _.sortBy(_.filter(pages,function(page) {return page.metadata.type == 'blog';}), function(page){ console.log(page.metadata.created);return page.metadata.created;}).reverse();
         },
         getPageByLink: function (link){
             var match = _.where(pages,{ link:link });

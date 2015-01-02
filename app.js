@@ -23,9 +23,6 @@ var users = require('./routes/users');
 
 
 /* CONFIGURATION */
-
-
-
 var config = require('./config');
 
 var app = express();
@@ -120,6 +117,5 @@ app.use(function(err, req, res, next) {
 
 //this crawls the markdown folder and sets up the pages module
 app.pages = pages(app)
-
 
 module.exports = app;

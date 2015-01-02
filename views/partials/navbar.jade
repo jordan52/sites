@@ -1,9 +1,15 @@
 .container
 	.row
 		.col-md-3
-			img( src='/img/robot.png')
+			a(href='/')
+				img( src='/img/robot.png')
 		.col-md-9
-			ul.pages
-				each page in pageLinks
-					li
-						a(href='#{page.link}') #{page.title}
+			ul.categories
+				each cat in pageCategories
+					div=cat
+					ul
+					each page in pageLinksByCategory[cat]
+						li
+							a(href='#{page.link}') #{page.title}
+
+

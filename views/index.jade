@@ -5,7 +5,8 @@ block content
 		ul
 			each post in posts
 				li=post.metadata.created
-					h1=post.metadata.title
+					h1
+						a(href='#{post.link}') #{post.metadata.title}
 					div=post.metadata.summary
 					div!=post.content
 
