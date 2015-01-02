@@ -18,7 +18,9 @@
     "express-flash": "^0.0.2",
     "express-session": "^1.9.3",
     "bootstrap-styl": "*",
-    "lodash": "^2.4.1"
+    "moment": "*",
+    "lodash": "^2.4.1",
+    "async": "*"
   },
   "devDependencies": {
         "blessed": "^0.0.37",

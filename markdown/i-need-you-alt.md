@@ -1,3 +1,19 @@
+---
+{
+    "title": "I Need You - Alternate Ending",
+    "created": "2014-12-14",
+    "modified": "2014-12-01",
+    "type":"story",
+    "categories": [
+        "story"
+    ],
+    "tags": [
+        "fun",
+        "silly",
+        "rad"
+    ]
+}
+---
 ### I Need You (alternate ending)
 
 Summer, 1983. In bare feet on wet grass we're jumping past puddles to

@@ -3,18 +3,16 @@ var router = express.Router();
 var path = require('path');
 var fs = require('fs');
 var _ = require('lodash');
+
+var markdownUtils = require('../util/markdownUtils.js')
+
 var config = require('../config')
 
-/* GET home page. */
 router.get('/', function(req, res) {
-    var pages = {};
-    fs.readdir(path.resolve(__dirname + '/../markdown'), function(err,files){
 
-        pages.pages = files;
-    });
-    res.json(pages);
+    //return res.json(_.map(req.app.pages, function(page) { return {title:page.metadata.title,link:page.link}; }));
+   // return res.json(req.app.pages);
 });
-
 
 
 module.exports = router;

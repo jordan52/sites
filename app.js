@@ -6,11 +6,15 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var fs = require('fs');
 var url = require('url');
-var markdown = require('marked-metadata');
+var async = require('async');
+var _ = require('lodash');
+
+var moment = require('moment');
 var session = require('express-session');
 var flash = require('express-flash');
 var stylus = require('stylus');
 var bootstrap = require('bootstrap-styl');
+var markdownUtils = require('./util/markdownUtils.js')
 
 /* ROUTES */
 var routes = require('./routes/index');
@@ -59,9 +63,18 @@ app.use(flash());
 
 app.use('/', routes);
 app.use('/users', users);
-app.use('/pages', pages);
+app.route('/pages').get(function(req, res, next) {
+    return res.json(
+        _.map(_.filter(req.app.pages,function(page) {return page.metadata.type != 'blog';}), function(page) { return {title:page.metadata.title,link:page.link};})
+    );
+});
+app.route('/blog/entries').get(function(req, res, next) {
+    return res.json(
+        _.map(_.filter(req.app.pages,function(page) {return page.metadata.type == 'blog';}), function(page) { return {title:page.metadata.title,link:page.link};})
+    );
+});
 
-
+//look in the markdown folder for any
 app.use(function(req, res, next) {
 
     var file = req.url.toString();
@@ -83,24 +96,15 @@ app.use(function(req, res, next) {
         if (!exists)
             return next();
 
-        var context = {};
-
-        md = new markdown(file);
-        context['markdown'] = md.markdown();
-
-        context['metadata'] = md.metadata().title;
-        res.render('site', context);
-
-        /*fs.readFile(file, 'utf8', function(err, data) {
+        fs.readFile(file, 'utf8', function(err, data) {
             var context = {};
             if(err)
                 return next(err);
-
-            data = markdown(data);
-
-            context['markdown'] = data.markdown();
+            context['markdown'] = markdownUtils.getMarkdownContent(data);
+            meta = JSON.parse(markdownUtils.getMarkdownHeader(data));
+            context['metadata'] = meta.title + moment(meta.created).format('MM/DD/YYYY');
             res.render('site', context);
-        });*/
+        });
     });
 });
 
@@ -134,6 +138,31 @@ app.use(function(err, req, res, next) {
         message: err.message,
         error: {}
     });
+});
+
+
+// on startup crawl the markdown directory and post the results to app.pages
+fs.readdir(markdownDir, function(err,files){
+    var getMetadata = function (filename, callback){
+        var meta;
+        var content;
+
+        fs.readFile(markdownDir + '/' +filename, 'utf8', function (err, data) {
+            try {
+                meta = JSON.parse(markdownUtils.getMarkdownHeader(data));
+                content = markdownUtils.getMarkdownContent(data);
+            } catch (err){
+                console.log(filename + " has bad header " + err);
+            }
+            return callback(null, {
+                filename:filename,
+                link: filename.replace(/.md/i, '.html'),
+                metadata: meta,
+                content: content
+            });
+        });
+    };
+    async.map(files, getMetadata, function(err, results){ app.pages = results});
 });
 
 
