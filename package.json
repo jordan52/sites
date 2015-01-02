@@ -14,7 +14,7 @@
     "debug": "~2.0.0",
     "jade": "~1.6.0",
     "stylus": "*",
-    "marked-metadata": "*",
+    "marked": "*",
     "express-flash": "^0.0.2",
     "express-session": "^1.9.3",
     "bootstrap-styl": "*",

@@ -97,6 +97,7 @@ app.use(function(req, res, next) {
     var context = {};
     context['markdown'] = match.content;
     context['metadata'] = match.metadata;
+    context['title'] = match.metadata.title;
     return res.render('site', context);
 
 });
