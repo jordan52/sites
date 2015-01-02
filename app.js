@@ -9,6 +9,8 @@ var url = require('url');
 var async = require('async');
 var _ = require('lodash');
 
+var pages = require('./pages/pages.js');
+
 var moment = require('moment');
 var session = require('express-session');
 var flash = require('express-flash');
@@ -22,12 +24,12 @@ var users = require('./routes/users');
 
 /* CONFIGURATION */
 
-var markdownDir = __dirname + '/markdown';
-markdownDir = path.resolve(markdownDir);
+
 
 var config = require('./config');
 
 var app = express();
+app.locals.markdownDir = path.resolve(__dirname + '/markdown');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -52,14 +54,10 @@ app.use(flash());
 app.use('/', routes);
 app.use('/users', users);
 app.route('/pages').get(function(req, res, next) {
-    return res.json(
-        _.map(_.filter(req.app.pages,function(page) {return page.metadata.type != 'blog';}), function(page) { return {title:page.metadata.title,link:page.link};})
-    );
+    return res.json(req.app.pages.getAllPageLinks());
 });
 app.route('/blog/posts').get(function(req, res, next) {
-    return res.json(
-        _.map(_.filter(req.app.pages,function(page) {return page.metadata.type == 'blog';}), function(page) { return {title:page.metadata.title,link:page.link};})
-    );
+    return res.json(req.app.pages.getAllBlogPostLinks());
 });
 
 //look in app.pages for any matches
@@ -74,20 +72,18 @@ app.use(function(req, res, next) {
         return next();
 
     file = file.slice(1);
-    var match = _.where(app.pages,{ link:file });
 
-    if(match.length < 1){
+    try {
+        var match = app.pages.getPageByLink(file);
+    } catch(err){
         return next();
     }
-
-    match = match[0];
 
     var context = {};
     context['markdown'] = match.content;
     context['metadata'] = match.metadata;
     context['title'] = match.metadata.title;
     return res.render('site', context);
-
 });
 
 
@@ -122,30 +118,8 @@ app.use(function(err, req, res, next) {
     });
 });
 
-
-// on startup crawl the markdown directory and post the results to app.pages
-fs.readdir(markdownDir, function(err,files){
-    var getMetadata = function (filename, callback){
-        var meta;
-        var content;
-
-        fs.readFile(markdownDir + '/' +filename, 'utf8', function (err, data) {
-            try {
-                meta = JSON.parse(markdownUtils.getMarkdownHeader(data));
-                content = markdownUtils.getMarkdownContent(data);
-            } catch (err){
-                console.log(filename + " has bad header " + err);
-            }
-            return callback(null, {
-                filename:filename,
-                link: filename.replace(/.md/i, '.html'),
-                metadata: meta,
-                content: content
-            });
-        });
-    };
-    async.map(files, getMetadata, function(err, results){ app.pages = results});
-});
+//this crawls the markdown folder and sets up the pages module
+app.pages = pages(app)
 
 
 module.exports = app;

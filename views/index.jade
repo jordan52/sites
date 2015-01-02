@@ -2,4 +2,10 @@ extends layout
 
 block content
 	.container
-		p something something something something
+		ul
+			each post in posts
+				li=post.metadata.created
+					h1=post.metadata.title
+					div=post.metadata.summary
+					div!=post.content
+

@@ -3,4 +3,7 @@
 		.col-md-3
 			img( src='/img/robot.png')
 		.col-md-9
-			div.blogposts
+			ul.pages
+				each page in pageLinks
+					li
+						a(href='#{page.link}') #{page.title}

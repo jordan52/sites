@@ -1,6 +1,8 @@
 ---
 {
     "title": "test",
+    "shortTitle": "shortTest",
+    "summary": "This is a short test",
     "created": "2014-12-14",
     "modified": "2014-12-01",
     "type":"blog",
