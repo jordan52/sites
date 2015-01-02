@@ -17,7 +17,6 @@
     "marked": "*",
     "express-flash": "^0.0.2",
     "express-session": "^1.9.3",
-    "bootstrap-styl": "*",
     "moment": "*",
     "lodash": "^2.4.1",
     "async": "*"

@@ -13,7 +13,6 @@ var moment = require('moment');
 var session = require('express-session');
 var flash = require('express-flash');
 var stylus = require('stylus');
-var bootstrap = require('bootstrap-styl');
 var markdownUtils = require('./util/markdownUtils.js')
 
 /* ROUTES */
@@ -45,17 +44,6 @@ app.use(session({
     saveUninitialized: true,
     secret: config.sessionSecret
     //store: new MongoStore({ url: secrets.db, autoReconnect: true })
-}));
-//set up stylus to use bootstrap-styl
-app.use(stylus.middleware({
-    dest: path.join(__dirname, 'public'),
-    src: path.join(__dirname, 'public'),
-    compile: function (str, path) {
-        return stylus(str)
-            .set('filename', path)
-            .set('compress', true)
-            .use(bootstrap());
-    }
 }));
 
 app.use(express.static(path.join(__dirname, 'public')));
