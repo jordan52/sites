@@ -19,7 +19,7 @@ var markdownUtils = require('./util/markdownUtils.js')
 /* ROUTES */
 var routes = require('./routes/index');
 var users = require('./routes/users');
-var pages = require('./routes/pages');
+
 
 /* CONFIGURATION */
 
@@ -68,44 +68,37 @@ app.route('/pages').get(function(req, res, next) {
         _.map(_.filter(req.app.pages,function(page) {return page.metadata.type != 'blog';}), function(page) { return {title:page.metadata.title,link:page.link};})
     );
 });
-app.route('/blog/entries').get(function(req, res, next) {
+app.route('/blog/posts').get(function(req, res, next) {
     return res.json(
         _.map(_.filter(req.app.pages,function(page) {return page.metadata.type == 'blog';}), function(page) { return {title:page.metadata.title,link:page.link};})
     );
 });
 
-//look in the markdown folder for any
+//look in app.pages for any matches
 app.use(function(req, res, next) {
 
-    var file = req.url.toString();
-    var file = file.toLowerCase();
-
+    try {
+        var file = req.url.toString().toLowerCase();
+    } catch(err){
+        return next();
+    }
     if (file.slice(-5) !== '.html')
         return next();
 
-    file = url.parse(file)
-    file = file.pathname.replace(/.html/i, '.md');
-    file = markdownDir + file
-    file = path.resolve(file);
+    file = file.slice(1);
+    var match = _.where(app.pages,{ link:file });
 
-    // does the file exist?
-    if (file.substr(0, markdownDir.length) !== markdownDir)
+    if(match.length < 1){
         return next();
+    }
 
-    fs.exists(file, function(exists) {
-        if (!exists)
-            return next();
+    match = match[0];
 
-        fs.readFile(file, 'utf8', function(err, data) {
-            var context = {};
-            if(err)
-                return next(err);
-            context['markdown'] = markdownUtils.getMarkdownContent(data);
-            meta = JSON.parse(markdownUtils.getMarkdownHeader(data));
-            context['metadata'] = meta.title + moment(meta.created).format('MM/DD/YYYY');
-            res.render('site', context);
-        });
-    });
+    var context = {};
+    context['markdown'] = match.content;
+    context['metadata'] = match.metadata;
+    return res.render('site', context);
+
 });
 
 
