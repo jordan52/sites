@@ -7,7 +7,6 @@
     "modified": "2014-12-01",
     "type":"story",
     "categories": [
-        "creative nonfiction",
         "stories"
     ],
     "tags": [
@@ -17,8 +16,6 @@
     ]
 }
 ---
-### I Need You
-
 Summer, 1983. In bare feet on wet grass we're jumping past puddles to
 the trampoline she got for her 10th birthday.
 

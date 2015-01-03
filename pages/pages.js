@@ -13,6 +13,9 @@ exports = module.exports = function (app){
             var meta;
             var content;
 
+            if (filename.toLowerCase() != filename) {
+                throw Error('markdown filenames must not contain uppercase letters: ' + filename);
+            }
             fs.readFile(app.locals.markdownDir + '/' +filename, 'utf8', function (err, data) {
                 try {
                     meta = JSON.parse(markdownUtils.getMarkdownHeader(data));
@@ -30,7 +33,7 @@ exports = module.exports = function (app){
         };
         async.map(files, getMetadata, function(err, results){
             pages = results;
-            // This happens here so we can use the varialbes in jade templates (like, the global header.
+            // This happens here so we can use the variables in jade templates (like, the global header.
             app.locals.pageLinks = _.map(_.filter(pages,function(page) {return page.metadata.type != 'blog';}), function(page) { return {title:page.metadata.shortTitle,link:page.link, categories: page.metadata.categories};});
             app.locals.pageCategories = _.uniq(_.flatten(_.map(app.locals.pageLinks, function(pageLink) { return pageLink.categories; },{})));
             var catPageLinks = {};
@@ -52,7 +55,7 @@ exports = module.exports = function (app){
 
             app.locals.blogPostLinks = _.map(_.sortBy(_.filter(pages,function(page) {return page.metadata.type == 'blog';}), 'metadata.created').reverse(), function(page) { return {title:page.metadata.shortTitle,link:page.link};});
 
-            app.locals.blogPosts = _.sortBy(_.filter(pages,function(page) {return page.metadata.type == 'blog';}), function(page){ console.log(page.metadata.created);return page.metadata.created;}).reverse();
+            app.locals.blogPosts = _.sortBy(_.filter(pages,function(page) {return page.metadata.type == 'blog';}), function(page){ return page.metadata.created; }).reverse();
 
         });
     });
