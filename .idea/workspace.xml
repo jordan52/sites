@@ -78,30 +78,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="69" />
-              <folding>
-                <marker date="1420245309000" expanded="true" signature="21:213" placeholder="..." />
-                <marker date="1420245309000" expanded="true" signature="46:213" placeholder="..." />
-                <marker date="1420245309000" expanded="true" signature="75:213" placeholder="..." />
-                <marker date="1420245309000" expanded="true" signature="105:157" placeholder="..." />
-                <marker date="1420245309000" expanded="true" signature="197:213" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="i-need-you.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="i-need-you.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/markdown/i-need-you.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39215687" vertical-offset="0" max-vertical-offset="1530">
+            <state vertical-scroll-proportion="-4.4444447" vertical-offset="0" max-vertical-offset="1530">
               <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39215687" vertical-offset="0" max-vertical-offset="306">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -192,6 +189,7 @@
         <option value="$PROJECT_DIR$/markdown/calculate-pi-with-darts.md" />
         <option value="$PROJECT_DIR$/markdown/about.md" />
         <option value="$PROJECT_DIR$/markdown/i-need-you.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -770,12 +768,12 @@
       <workItem from="1420135018423" duration="16416000" />
       <workItem from="1420211600206" duration="8797000" />
       <workItem from="1420226272533" duration="9110000" />
-      <workItem from="1420245889828" duration="5943000" />
+      <workItem from="1420245889828" duration="6468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63180000" />
+    <option name="totallyTimeSpent" value="63705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="23" width="1469" height="697" extended-state="6" />
@@ -789,7 +787,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32784185" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36738056" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36738056" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -830,16 +828,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/markdown/describe-quant.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="405">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/navbar.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
@@ -896,11 +884,11 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="165">
           <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
           <folding>
-            <marker date="1420245309000" expanded="true" signature="21:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="46:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="75:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="105:157" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="197:213" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -968,11 +956,11 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding>
-            <marker date="1420245309000" expanded="true" signature="21:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="46:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="75:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="105:157" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="197:213" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1182,11 +1170,11 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="69" />
           <folding>
-            <marker date="1420245309000" expanded="true" signature="21:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="46:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="75:213" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="105:157" placeholder="..." />
-            <marker date="1420245309000" expanded="true" signature="197:213" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420245309000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1282,8 +1270,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39215687" vertical-offset="0" max-vertical-offset="1530">
+        <state vertical-scroll-proportion="-4.4444447" vertical-offset="0" max-vertical-offset="1530">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39215687" vertical-offset="0" max-vertical-offset="306">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding />
         </state>
       </provider>
