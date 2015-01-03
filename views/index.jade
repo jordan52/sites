@@ -2,11 +2,10 @@ extends layout
 
 block content
 	.container
-		ul
+		div.blog-post
 			each post in posts
-				li=post.metadata.created
-					h1
-						a(href='#{post.link}') #{post.metadata.title}
-					div=post.metadata.summary
+				.blog-date=post.metadata.created
+					h2
+						a(href='#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
 					div!=post.content
-
+				hr

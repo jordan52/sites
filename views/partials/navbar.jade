@@ -1,15 +1,17 @@
 .container
-	.row
-		.col-md-3
-			a(href='/')
-				img( src='/img/robot.png')
-		.col-md-9
-			ul.categories
-				each cat in pageCategories
-					div=cat
-					ul
-					each page in pageLinksByCategory[cat]
-						li
-							a(href='#{page.link}') #{page.title}
-
-
+			nav.navbar.navbar-default.navbar-fix(role='navigation')
+				.container
+					.navbar-header
+						button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+							span.sr-only Toggle navigation
+							span.icon-bar
+							span.icon-bar
+							span.icon-bar
+						a.navbar-brand.brand-fix(href='/')
+							img( src='/img/robot.png')
+					.navbar-collapse.collapse.navbar-right
+						ul.nav.navbar-nav: each cat in pageCategories
+							li.dropdown(role="presentation")
+								a.dropdown-toggle(data-toggle='dropdown' href="#" role="button" aria-expanded="false") #{cat} #[span.caret]
+									ul.dropdown-menu.dropdown-menu-fix(role="menu"): each page in pageLinksByCategory[cat]
+										li: a(href='#{page.link}') #{page.title}

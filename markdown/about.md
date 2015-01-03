@@ -13,8 +13,9 @@
     ]
 }
 ---
-I am Jordan Woerndle. After many years of maintaining statically generated sites, I decided it might be fun to build
-something a little more dynamic. My company has gotten a lot of mileage out of javascript so I thought what the hell.
+My name is Jordan Woerndle. After many years of maintaining statically generated sites, 
+I decided it might be fun to build
+something a little more dynamic. My company has gotten a lot of mileage out of javascript so I figured why not.
  
 The first round is a simple express.js site that renders markdown content. The content contains metadata that lets the 
 site know if it is a blog post, story, etc. The code is on [bitbucket](https://bitbucket
