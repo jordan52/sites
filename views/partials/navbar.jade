@@ -14,4 +14,4 @@
 							li.dropdown(role="presentation")
 								a.dropdown-toggle(data-toggle='dropdown' href="#" role="button" aria-expanded="false") #{cat} #[span.caret]
 									ul.dropdown-menu.dropdown-menu-fix(role="menu"): each page in pageLinksByCategory[cat]
-										li: a(href='#{page.link}') #{page.title}
+										li: a(href='/#{page.link}') #{page.title}

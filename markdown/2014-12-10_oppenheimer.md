@@ -1,6 +1,6 @@
 ---
 {
-    "title": "Profound Thoughts from a Nuclear Physicist",
+    "title": "Profound Thoughts From a Nuclear Physicist",
     "shortTitle": "Oppenheimer",
     "summary": "Lighting a nuclear bomb is a lot like putting a hotfix into production.",
     "created": "2014-12-10",

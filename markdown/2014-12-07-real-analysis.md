@@ -7,8 +7,12 @@
     "modified": "2014-12-07",
     "type":"blog",
     "categories": [
+        "learning"
     ],
     "tags": [
+        "finance",
+        "math",
+        "statistics"
     ]
 }
 ---

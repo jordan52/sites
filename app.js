@@ -57,6 +57,16 @@ app.route('/pages').get(function(req, res, next) {
 app.route('/blog/posts').get(function(req, res, next) {
     return res.json(req.app.pages.getAllBlogPostLinks());
 });
+app.route('/tag/:tag').get(function(req, res, next){
+    var tag = req.param('tag');
+    req.flash('success', { msg: 'Content Tagged With "' + tag + '"'});
+    res.render('index', { posts: req.app.pages.getAllByTag(tag)});
+});
+app.route('/category/:cat').get(function(req, res, next){
+    var cat = req.param('cat');
+    req.flash('success', { msg: 'Content in the "' + cat + '" Category'});
+    res.render('index', { posts: req.app.pages.getAllByCategory(cat)});
+});
 
 //look in app.pages for any matches
 app.use(function(req, res, next) {

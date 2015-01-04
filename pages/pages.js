@@ -79,6 +79,12 @@ exports = module.exports = function (app){
             }
 
             return match[0];
+        },
+        getAllByTag : function(tag){
+            return _.sortBy(_.filter(pages,function(page) {return _.contains(page.metadata.tags, tag);}), 'metadata.created').reverse()
+        },
+        getAllByCategory : function(cat){
+            return _.sortBy(_.filter(pages,function(page) {return _.contains(page.metadata.categories, cat);}), 'metadata.created').reverse()
         }
     }
 }
