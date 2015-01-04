@@ -26,3 +26,5 @@ Robert simply exclaimed, "It worked!"
 
 Brigadier General Thomas Farrell was also in the control bunker that day. He said that the second the bomb went off, Oppenheimer's face relaxed into  an expression of tremendous relief.
 
+What am I talking about? History! presenting yourself in the best light possible! making it sound like you totally know what you're doing and that you have these complex and deep thoughts at important times and that you are able to express those emotions in meaningful, even profound ways. Personal PR! I suppose it is his duty to assure humanity that nuclear physicists who can build machines that will eat the world have deep, inner monologue. But, in reality, the dude was stressed out of his gourd that his project was going to fail. When that thing lit up he probably experienced the same feelings you got that time you flipped the switch after changing your first light bulb. Also, little brothers... still annoying even after you do something badass like light up a nuclear bomb. 
+
