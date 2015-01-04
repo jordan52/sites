@@ -5,7 +5,7 @@ block content
 		div.blog-post
 			each post in posts
 				.blog-date=post.metadata.created
-					h2
-						a(href='#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
-					div!=post.content
+				h2
+					a(href='#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
+				div!=post.content
 				hr
