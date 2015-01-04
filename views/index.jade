@@ -4,7 +4,8 @@ block content
 	.container
 		div.blog-post
 			each post in posts
-				.blog-date=post.metadata.created
+				if post.metadata.type == 'blog'
+					.blog-date=post.metadata.created
 				h2
 					a(href='#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
 				div!=post.content
