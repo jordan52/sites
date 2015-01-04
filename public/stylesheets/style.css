@@ -33,6 +33,9 @@ footer {
   padding-top: 0px;
   margin-top: 0px;
 }
+.cat-tag-label {
+  border: none;
+}
 .brand-fix {
   height: 90px;
   padding: 0px;
