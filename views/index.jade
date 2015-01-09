@@ -2,22 +2,23 @@ extends layout
 
 block content
 	.container
-		div.blog-post
+		section
 			each post in posts
-				if post.metadata.type == 'blog'
-					.blog-date=post.metadata.created
-				h2
-					a(href='#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
-				div!=post.content
-				.post-footer
-					if post.metadata.categories.length > 0
-						.post-categories.btn-group.btn-group-xs
-							.btn.btn-default.cat-tag-label categories
-							each cat in post.metadata.categories
-								a(href='/category/#{cat}').btn.btn-default #{cat}
-					if post.metadata.tags.length > 0
-						.post-tags.btn-group.btn-group-xs
-							.btn.btn-default.cat-tag-label tags
-							each tag in post.metadata.tags
-								a(href='/tag/#{tag}').btn.btn-default #{tag}
-				hr
+				div.blog-post
+					if post.metadata.type == 'blog'
+						.blog-date=post.metadata.created
+					h2
+						a(href='#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
+					div!=post.content
+					.post-footer
+						if post.metadata.categories.length > 0
+							.post-categories.btn-group.btn-group-xs
+								.btn.btn-default.cat-tag-label categories
+								each cat in post.metadata.categories
+									a(href='/category/#{cat}').btn.btn-default #{cat}
+						if post.metadata.tags.length > 0
+							.post-tags.btn-group.btn-group-xs
+								.btn.btn-default.cat-tag-label tags
+								each tag in post.metadata.tags
+									a(href='/tag/#{tag}').btn.btn-default #{tag}
+					hr
