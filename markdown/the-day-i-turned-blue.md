@@ -108,7 +108,7 @@ So, I do.
 I jog back to my cube and make the call.
 
 I'll spare you the details. Let's just say it was funny as shit. The
-poor receptionist at my [dirty doctor](dirtyDoctor.html) had no idea
+poor receptionist at my [dirty doctor](dirty-doctor.html) had no idea
 what to do. My doctor didn't know what to do. They looked it up and
 called me back.. still, no clue.
 
