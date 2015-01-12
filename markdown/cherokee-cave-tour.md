@@ -40,7 +40,7 @@ still have no idea why I was invited.
 
 Let's have a look at a map of Lemp Caverns and Cherokee Cave (click for
 a readable version)
-[![](media/cherokeeSmall.jpg)](media/cherokeeFull.jpg)
+[![](/media/cherokeeSmall.jpg)](/media/cherokeeFull.jpg)
 
 Most of the cave is still intact. A small part near the bottom of the
 map marked "Bridge" was destroyed and blocked off with concrete walls
@@ -63,7 +63,7 @@ of water. There were little, pale fishes in the water.
 
 ### The Lemp Caverns
 
-[![](media/lempSmall.jpg)](media/lemp.jpg) 
+[![](/media/lempSmall.jpg)](/media/lemp.jpg) 
 
 I'm sure you can find plenty
 of information about the history of the Lemp Caverns, so I'll spare you.
@@ -76,11 +76,11 @@ For me, one of the most interesting things was this gigantic, iron,
 spiral staircase that led to the surface just behind the theatrical
 area.
 
-[![](media/spiralStaircase1_t.jpg)](media/spiralStaircase1.jpg)
+[![](/media/spiralStaircase1_t.jpg)](/media/spiralStaircase1.jpg)
 
-[![](media/spiralStaircase2_t.jpg)](media/spiralStaircase2.jpg)
+[![](/media/spiralStaircase2_t.jpg)](/media/spiralStaircase2.jpg)
 
-[![](media/spiralStaircase3_t.jpg)](media/spiralStaircase3.jpg)
+[![](/media/spiralStaircase3_t.jpg)](/media/spiralStaircase3.jpg)
           
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -100,13 +100,13 @@ thing left that reminds us of its original use are some stage lights
 hanging from the rocky ceiling.
 
 
-[![](media/theater1_t.jpg)](media/theater1.jpg)
+[![](/media/theater1_t.jpg)](/media/theater1.jpg)
 
 
-[![](media/theater2_t.jpg)](media/theater2.jpg)
+[![](/media/theater2_t.jpg)](/media/theater2.jpg)
 
 
-[![](media/theater3_t.jpg)](media/theater3.jpg)          
+[![](/media/theater3_t.jpg)](/media/theater3.jpg)          
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -130,11 +130,11 @@ certainly was a fire there and there is what looks like old, burned fire
 hoses on the floor. The last photo may or may not be the "refrigerator
 door."
 
-[![](media/fire1_t.jpg)](media/fire1.jpg)
+[![](/media/fire1_t.jpg)](/media/fire1.jpg)
 
-[![](media/fire2_t.jpg)](media/fire2.jpg)
+[![](/media/fire2_t.jpg)](/media/fire2.jpg)
 
-[![](media/fire3_t.jpg)](media/fire3.jpg)          
+[![](/media/fire3_t.jpg)](/media/fire3.jpg)          
 
  
 <p>&nbsp;</p>
@@ -149,7 +149,7 @@ floor, that there is a passageway at the top. Some people in the group
 the cave. They got up in there only to find out it connected to another
 shaft which was blocked off with debris and red bricks.
 
-[![](media/verticalShaft_t.jpg)](media/verticalShaft.jpg) 
+[![](/media/verticalShaft_t.jpg)](/media/verticalShaft.jpg) 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -157,20 +157,20 @@ shaft which was blocked off with debris and red bricks.
 <p>&nbsp;</p>
 ### The Cherokee Cave
 
-[![](media/cherokeeCave_t.jpg)](media/cherokeeCave.jpg)
+[![](/media/cherokeeCave_t.jpg)](/media/cherokeeCave.jpg)
 
 Since this is just a draft, I'm going to just say three things about
 cherokee cave and get out of here. 1) It is neat. 2) It is moist. 3) I
 have 4 photos - The wishing well, some stairs, the "pit of death" and
 the concrete wall they put up when building hwy 55:
 
-[![](media/wishingWell_t.jpg)](media/wishingWell.jpg)
+[![](/media/wishingWell_t.jpg)](/media/wishingWell.jpg)
 
-[![](media/stairs_t.jpg)](media/stairs.jpg)
+[![](/media/stairs_t.jpg)](/media/stairs.jpg)
 
-[![](media/pitOfDeath_t.jpg)](media/pitOfDeath.jpg)
+[![](/media/pitOfDeath_t.jpg)](/media/pitOfDeath.jpg)
 
-[![](media/cherokeeWall_t.jpg)](media/cherokeeWall.jpg)
+[![](/media/cherokeeWall_t.jpg)](/media/cherokeeWall.jpg)
  <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

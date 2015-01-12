@@ -102,7 +102,7 @@ see.”
 
 * * * * *
 
-![](media/zitNoPenny.jpg)
+![](/media/zitNoPenny.jpg)
 
 * * * * *
 
@@ -110,7 +110,7 @@ see.”
 
 * * * * *
 
-![](media/zitPenny.jpg)
+![](/media/zitPenny.jpg)
 
 * * * * *
 

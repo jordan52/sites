@@ -29,7 +29,7 @@ shiz really went down, there'd be no way we could pay and they'd
 eventually shut us off. So, I picked up a wrench and got to work on the
 gas meter (WARNING: Do not do this. Trust me.)
 
-![](media/gasMeter.jpg)
+![](/media/gasMeter.jpg)
 
 I went inside and called my dad. "Hey, dad. I'm saving some money so I
 shut off my gas. How do I keep my pipes from freezing."
@@ -74,7 +74,7 @@ The 5th night I was laying in bed pondering my decision when I heard,
 BAM! then rushing water. I shot out of bed and ran downstairs to turn
 off the main water line.
 
-![](media/brokenWaterPipe.jpg)
+![](/media/brokenWaterPipe.jpg)
 
 Goddamm frigid water was everywhere and I was shoeless. Lucky for me,
 the pipe that burst was close to the outside wall and about 3 feet away

@@ -16,7 +16,7 @@
 ---
 
 
-![](media/chair1.jpg) ![](media/chair2.jpg)
+![](/media/chair1.jpg) ![](/media/chair2.jpg)
 
 I saw the Steltman Chair at SLAM a few months... err.. make that
 probably years ago and thought, "I love that!" Anyway, band practice got

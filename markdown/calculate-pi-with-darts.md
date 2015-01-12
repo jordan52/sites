@@ -101,7 +101,7 @@ The code plots the points inside the circle in blue and those outside in
 red by calculating the point's distance from the origin. Here's the
 plot:
 
-> ![](media/statsCircle1000throws.jpg)
+> ![](/media/statsCircle1000throws.jpg)
 
 Sorry it is a little squished. That happened when I saved it as a jpg.
 Ignoring that, it looks a heck of a lot like a circle, no? Are we done?
@@ -124,7 +124,7 @@ the code:
 
 And here's the plot. Y axis is error, X is number of throws:
 
-> ![](media/statsAccuracy1to1000throws.jpg)
+> ![](/media/statsAccuracy1to1000throws.jpg)
 
 Notice how the error gets closer to zero with the more throws we make.
 Awesome! I think we just learned a lot about pi and a little bit about
@@ -172,11 +172,11 @@ results? Sure. Here's one way to do exactly that:
 Here's the standard deviation plot of the error for 1 to 100 dart
 throws. Y axis is standard deviation of error, X is number of throws:
 
-> ![](media/statsSdev1to100runs.jpg)
+> ![](/media/statsSdev1to100runs.jpg)
 
 Here's the standard deviation for 1 to 1000 dart throws:
 
-> ![](media/statsSdev1to1000runs.jpg)
+> ![](/media/statsSdev1to1000runs.jpg)
 
 We already showed that the more throws gives you more accurate results.
 This graph shows that more throws also gives a smaller variance in those

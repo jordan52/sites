@@ -475,7 +475,7 @@ You Don't Know 02:29 Knockin' 02:07 Just Want You to Know 03:50\
 
 V/A
  The Shack Vol. 3 Transatlantic Ska (UK Import) CD 
- ![](media/transatlanticSka.jpg)
+ ![](/media/transatlanticSka.jpg)
  Track list: 
  
 1. Pama - What's Going On? 
@@ -1105,14 +1105,14 @@ for some weird reason).
 
 * * * * *
 
-![](media/orangeTreeVeryBestOfJumpUp.jpg)
+![](/media/orangeTreeVeryBestOfJumpUp.jpg)
  
- ![](media/orangeTreeBestOf.jpg)
+ ![](/media/orangeTreeBestOf.jpg)
  
- ![](media/orangeTreeKnowYourSkalphabet.jpg)
+ ![](/media/orangeTreeKnowYourSkalphabet.jpg)
  
  
  
- ![](media/orangeTreeRockNRollConf.jpg)
+ ![](/media/orangeTreeRockNRollConf.jpg)
  
- ![](media/compilationCoverSexSells.jpg)
+ ![](/media/compilationCoverSexSells.jpg)

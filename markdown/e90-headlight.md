@@ -44,11 +44,11 @@ said it was 4300k and seems to match the existing light.
 Way cheaper than the \$119 AutoZone wanted. I couldn't find a
 temperature on the Sylvania bulbs which is why I chose Philips.
 
-![](media/e90Headlight01.jpg)
+![](/media/e90Headlight01.jpg)
 
 Get your tools, pop the hood, jack up the car, and remove the tire.
 
-![](media/e90Headlight02.jpg)
+![](/media/e90Headlight02.jpg)
 
 This is the fender well you'll remove. The front half has to come out.
 The access hatch you see is a tease. It is only big enough to replace
@@ -57,103 +57,103 @@ engine compartment if you remove the air box. But, the headlight's
 plastic case clips are a tricky bitch. You might as well remove the
 wheel well.
 
-![](media/e90Headlight04.jpg)
+![](/media/e90Headlight04.jpg)
 
 You have to remove some bolts under the bumper as well as the mudflap
 that's in front of the wheel. Someone sent me an email and said they did
 it w/o removing the mudflap. YMMV.
 
-![](media/e90Headlight06.jpg)
+![](/media/e90Headlight06.jpg)
 
 This is (almost) everything that holds the wheel well. It includes
 eleven 8mm bolts, one 10mm nut, and one sort of plastic push-pin thing
 (not shown) that helps hold the mudflap in place.
 
-![](media/e90Headlight07.jpg)
+![](/media/e90Headlight07.jpg)
 
 Carefully pull the wheel well out and down. Here's what you'll see.
 
-![](media/e90Headlight08.jpg)
+![](/media/e90Headlight08.jpg)
 
 Close-up of the headlight unit. There are 2 clips on top, 2 on the
 bottom.
 
-![](media/e90Headlight11.jpg)
+![](/media/e90Headlight11.jpg)
 
 I unclipped the bottom half, first. The larger clip on the left was
 easier to unhook. I did slide a small flat-blade screwdriver along the
 side (look closely) as I pulled back as shown. Be careful. Those clips
 feel like they could easily break.
 
-![](media/e90Headlight12.jpg)
+![](/media/e90Headlight12.jpg)
 
 I undid the clip on the right by squeezing it with my thumb. Again, I
 used a flat-blade screwdriver (not shown, required two hands, couldn't
 hold the camera, too.) to help.
 
-![](media/e90Headlight13.jpg)
+![](/media/e90Headlight13.jpg)
 
 Swing the bottom half away.
 
-![](media/e90Headlight14.jpg)
+![](/media/e90Headlight14.jpg)
 
 The top clips were rough. These photos are the clip on the right, photos
 taken from above the engine.
 
-![](media/e90Headlight15.jpg)
+![](/media/e90Headlight15.jpg)
 
 One screwdriver didn't do it.
 
-![](media/e90Headlight16.jpg)
+![](/media/e90Headlight16.jpg)
 
 I had to carefully use 2 screwdrivers to pop the right clip off. Once it
 was loose, i got back under the car and swung the housing up and
 carefully undid the left clip.
 
-![](media/e90Headlight17.jpg)
+![](/media/e90Headlight17.jpg)
 
 This is what the cover protects. The lightbulb is that silver thing held
 in with a spring clip.
 
-![](media/e90Headlight18.jpg)
+![](/media/e90Headlight18.jpg)
 
 I tried using a screwdriver to undo the clip. That did not work.
 
-![](media/e90Headlight19.jpg)
+![](/media/e90Headlight19.jpg)
 
 Needle nosed pliers did it. Push toward the front of the car and to the
 left. Someone emailed me and said you can just use your fingers (no
 pliers.)
 
-![](media/e90Headlight20.jpg)
+![](/media/e90Headlight20.jpg)
 
 Apparently, I like taking photos of needle-nosed pliers. This shows the
 clip a little better.
 
-![](media/e90Headlight21.jpg)
+![](/media/e90Headlight21.jpg)
 
 Unplug the bulb (probably should do this before you remove the clip) and
 remove it.
 
-![](media/e90Headlight22.jpg)
+![](/media/e90Headlight22.jpg)
 
 New bulb goes in (don't touch the glass! If you do, clean it with
 alcohol and a lint-free cloth.)
 
-![](media/e90Headlight23.jpg)
+![](/media/e90Headlight23.jpg)
 
 Plug in the bulb.
 
-![](media/e90Headlight09.jpg)
+![](/media/e90Headlight09.jpg)
 
 Replace the cover. Top in, first. Then the bottom. I used a screwdriver
 to help.
 
-![](media/e90Headlight10.jpg)
+![](/media/e90Headlight10.jpg)
 
 Again, with the screwdriver. These clips are a pain.
 
-![](media/e90Headlight24.jpg)
+![](/media/e90Headlight24.jpg)
 
 Before I went through the trouble of replacing the wheel-well, I tested
 the lights. Looks good. Button everything up and don't forget to torque
