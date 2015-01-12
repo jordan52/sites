@@ -88,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/markdown/about.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7307693" vertical-offset="0" max-vertical-offset="420">
+            <state vertical-scroll-proportion="0.07908612" vertical-offset="0" max-vertical-offset="569">
               <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
@@ -101,10 +101,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar.jade" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="navbar.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/partials/navbar.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24671052" vertical-offset="0" max-vertical-offset="608">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
               <folding />
             </state>
@@ -206,11 +206,11 @@
         <option value="$PROJECT_DIR$/markdown/whats-my-name.md" />
         <option value="$PROJECT_DIR$/markdown/rc-transmitter-flight-sim-controller.md" />
         <option value="$PROJECT_DIR$/markdown/e90-headlight.md" />
-        <option value="$PROJECT_DIR$/markdown/about.md" />
         <option value="$PROJECT_DIR$/markdown/resume.md" />
         <option value="$PROJECT_DIR$/markdown/i-need-you.md" />
         <option value="$PROJECT_DIR$/markdown/i-need-you-alt.md" />
         <option value="$PROJECT_DIR$/views/partials/navbar.jade" />
+        <option value="$PROJECT_DIR$/markdown/about.md" />
       </list>
     </option>
   </component>
@@ -802,12 +802,12 @@
       <workItem from="1420474022446" duration="1807000" />
       <workItem from="1420486960876" duration="633000" />
       <workItem from="1420573728829" duration="29000" />
-      <workItem from="1420575451730" duration="9437000" />
+      <workItem from="1420575451730" duration="9938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92519000" />
+    <option name="totallyTimeSpent" value="93020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="-4" width="1862" height="1028" extended-state="6" />
@@ -1326,17 +1326,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7307693" vertical-offset="0" max-vertical-offset="420">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/markdown/resume.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.7307693" vertical-offset="0" max-vertical-offset="2460">
@@ -1372,10 +1361,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/navbar.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24671052" vertical-offset="0" max-vertical-offset="608">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07908612" vertical-offset="0" max-vertical-offset="569">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
