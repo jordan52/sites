@@ -1,7 +1,7 @@
 ---
 {
     "title": "I Need You",
-    "shortTitle": "I Need You",
+    "shortTitle": "i need you",
     "summary": "We were young.",
     "created": "2014-12-14",
     "modified": "2014-12-01",

@@ -1,7 +1,7 @@
 ---
 {
     "title": "Resume",
-    "shortTitle": "Resume",
+    "shortTitle": "resume",
     "summary": "Jordan Woerndle ",
     "created": "2014-12-31",
     "modified": "2014-12-31",

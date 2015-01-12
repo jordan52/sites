@@ -1,7 +1,7 @@
 ---
 {
     "title": "About",
-    "shortTitle": "About",
+    "shortTitle": about",
     "summary": "",
     "created": "2014-12-31",
     "modified": "2014-12-31",

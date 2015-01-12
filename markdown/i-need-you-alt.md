@@ -1,7 +1,7 @@
 ---
 {
     "title": "I Need You - Alternate Ending",
-    "shortTitle": "I Need You (alt)",
+    "shortTitle": "i need you (alt)",
      "summary": "We were still young.",
     "created": "2014-12-14",
     "modified": "2014-12-01",
