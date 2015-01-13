@@ -4,6 +4,7 @@ var async = require('async');
 var _ = require('lodash');
 var moment = require('moment');
 var markdownUtils = require('../util/markdownUtils.js');
+var Feed = require('feed');
 
 exports = module.exports = function (app){
     //crawl the markdown directory and post the results to app.pages
@@ -57,6 +58,35 @@ exports = module.exports = function (app){
 
             app.locals.blogPosts = _.sortBy(_.filter(pages,function(page) {return page.metadata.type == 'blog';}), function(page){ return page.metadata.created; }).reverse();
 
+            app.locals.feed = new Feed({
+                title:       'Standard Automata',
+                description: 'things by a nobody in particular',
+                link:        'http://standardautomata.com/',
+                image:       'http://standardautomata.com/img/robot.png',
+                copyright:   'All rights reserved 2015, Jordan Woerndle',
+
+                author: {
+                    name:    'Jordan Woerndle',
+                    link:    'https://standardautomata.com/johndoe'
+                }
+            });
+            for(var key in app.locals.blogPosts){
+                console.log(app.locals.blogPosts[key].metadata.title);
+                console.log(app.locals.blogPosts[key].metadata.summary);
+                console.log('http://standardautomata.com/' +app.locals.blogPosts[key].link + '\n\n ');
+                app.locals.feed.addItem({
+                    title:          app.locals.blogPosts[key].metadata.title,
+                    link:           'http://standardautomata.com/' +app.locals.blogPosts[key].link,
+                    description:    app.locals.blogPosts[key].metadata.summary,
+                    author: [
+                        {
+                            name:   'Jordan Woerndle',
+                            link:   'https://standardautomata.com/'
+                        }
+                    ],
+                    date:           moment(app.locals.blogPosts[key].metadata.created).toDate()
+                });
+            }
         });
     });
 

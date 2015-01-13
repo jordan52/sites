@@ -19,7 +19,8 @@
     "express-session": "^1.9.3",
     "moment": "*",
     "lodash": "^2.4.1",
-    "async": "*"
+    "async": "*",
+    "feed": "*"
   },
   "devDependencies": {
         "blessed": "^0.0.37",
