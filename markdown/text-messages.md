@@ -7,7 +7,7 @@
     "modified": "2013-4-30",
     "type":"general",
     "categories": [
-        "stories"
+        "fiction"
     ],
     "tags": [
         "jack", "her"

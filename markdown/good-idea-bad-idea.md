@@ -2,15 +2,15 @@
 {
     "title": "Good Idea/Bad Idea - No Heat in the Winter",
     "shortTitle": "good idea/bad idea",
-    "summary": "There are caves. I found some.",
+    "summary": "why the hell not?",
     "created": "2011-12-10",
     "modified": "2011-12-10",
     "type":"general",
     "categories": [
-        "stories"
+        "nonfiction"
     ],
     "tags": [
-        "silly"
+        "yepThatReallyHappened"
     ]
 }
 ---

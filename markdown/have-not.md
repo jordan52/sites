@@ -7,7 +7,7 @@
     "modified": "2013-4-30",
     "type":"general",
     "categories": [
-        "stories"
+        "fiction"
     ],
     "tags": [
         "her", "jack"
@@ -32,9 +32,11 @@ Leslie bounced through the door, squeezing her dad on the way out, “Love you, 
 
 “What do you mean?" she asked.
 
-“Nevermind..." I said, "Where we going?"
+“Nevermind." I pulled the car away from the curb and said, "Where we going?"
 
-She pointed toward an apartment complex and said, "That's where Stacy lives. She's gross. I'm like oh my god would it 
+We turned a corner and she pointed toward an apartment complex. "That's where Stacy lives. She's gross. I'm 
+like oh my god would
+ it 
 kill you to empty your bathroom trash can once in a while? I mean, really, I love sifting through layers of girl gunk looking for that ring I just knocked off the vanity."
 
 

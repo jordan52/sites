@@ -7,7 +7,7 @@
     "modified": "2014-12-01",
     "type":"story",
     "categories": [
-        "stories"
+        "fiction"
     ],
     "tags": [
         "fun",
@@ -93,4 +93,3 @@ on nights like this?"
 
 "Ummm... Yeah."
 
-Let's [try a different ending](i-need-you-alt.html)
