@@ -51,6 +51,14 @@ app.use(flash());
 
 app.use('/', routes);
 app.use('/users', users);
+app.use(function (req, res, next) {
+    if ('/robots.txt' == req.url) {
+        res.type('text/plain')
+        res.send("User-agent: *\nDisallow: /css\nDisallow: /fonts\nDisallow: /js");
+    } else {
+        next();
+    }
+});
 app.route('/pages').get(function(req, res, next) {
     return res.json(req.app.pages.getAllPageLinks());
 });
