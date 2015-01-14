@@ -60,13 +60,16 @@ app.use(function (req, res, next) {
     }
 });
 app.route('/feed/').get(function(req, res, next) {
-    return res.json(req.app.locals.feed.render('rss-2.0'));
+    res.type('application/rss+xml');
+    return res.send(req.app.locals.feed.render('rss-2.0'));
 });
 app.route('/feed/rss/').get(function(req, res, next) {
-    return res.json(req.app.locals.feed.render('rss-2.0'));
+    res.type('application/rss+xml');
+    return res.send(req.app.locals.feed.render('rss-2.0'));
 });
 app.route('/feed/atom/').get(function(req, res, next) {
-    return res.json(req.app.locals.feed.render('atom-1.0'));
+    res.type('application/rss+xml');
+    return res.send(req.app.locals.feed.render('atom-1.0'));
 });
 app.route('/pages').get(function(req, res, next) {
     return res.json(req.app.pages.getAllPageLinks());
