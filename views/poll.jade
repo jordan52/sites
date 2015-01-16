@@ -12,8 +12,6 @@ doctype html
 			script(src='/js/lib/bootstrap.min.js')
 			script(src='//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js')
 			script(src='//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular-resource.min.js')
-			body
-				include partials/navbar
-				include partials/flash
-				block content
-				include partials/footer
+			script(src='/js/poll.js')
+		body(ng-controller='PollListCtrl')
+			div(ng-view)
