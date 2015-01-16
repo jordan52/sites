@@ -10,9 +10,7 @@ html
 		link(rel='stylesheet', href='/css/style.css')
 		script(src='/js/lib/jquery-1.11.2.min.js')
 		script(src='/js/lib/bootstrap.min.js')
+		script(src='/js/poll.js')
 
-	body
-		include partials/navbar
-		include partials/flash
-		block content
-		include partials/footer
+	body(ng-controller='PollListCtrl')
+		div(ng-view)
