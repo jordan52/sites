@@ -1,6 +1,43 @@
 ;(function() {
     "use strict";
 
+    var lower_back = {
+        _id:'lower_back',
+        type: 'doineedthis',
+        title: 'lower back',
+        description: 'total description here',
+        reference: 'http://www.guideline.gov/content.aspx?id=47586&search=odg',
+        questions: [
+            {
+                name:'first_visit_type',
+                type:'router',
+                description: 'select specialist type and initial result ',
+                specialist_type:['MD/DO','ORTHO','CHIRO','PAIN'],
+                exits: ['first_without_radioplathy','first_with_radioplathy']
+            },
+            {
+                name:'first_without_radioplathy',
+                type:'router',
+                description: 'select specialist type and initial result ',
+                specialist_type:['MD/DO','ORTHO','CHIRO','PAIN'],
+                exits: ['end']
+            },
+            {
+                name:'first_with_radioplathy',
+                type:'router',
+                description: 'select specialist type and initial result ',
+                specialist_type:['MD/DO','ORTHO','CHIRO','PAIN'],
+                exits: ['end']
+            },
+            {
+                name:'end',
+                type:'exit',
+                description: 'Thank you ',
+                exits: []
+            }
+        ]
+    };
+
     var main = document.getElementById('main');
     var views = {};
 
