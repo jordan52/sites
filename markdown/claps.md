@@ -21,3 +21,8 @@ for each clapper. Of course, volume is not a value, but a distribution.
 If you want to generate applause, simply set the number of actors to a distribution instead of a constant.
  
 Claps is a command line app that generates an MP3 stream as output.
+
+##UPDATE
+
+I am writing a web-based clap generator. It's on [github](https://github.com/jordan52/angularNonsense) in my 
+angularNonsense app.
