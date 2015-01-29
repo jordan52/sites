@@ -1,8 +1,8 @@
 ---
 {
-    "title": "Javascript Microframeworks",
-    "shortTitle": "microframeworks",
-    "summary": "fun for the diy types",
+    "title": "Javascript Micro-Frameworks",
+    "shortTitle": "micro-frameworks",
+    "summary": "fun for the DIYers",
     "created": "2015-01-29",
     "modified": "2015-01-99",
     "type":"blog",

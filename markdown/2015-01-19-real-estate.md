@@ -2,7 +2,7 @@
 {
     "title": "Maybe I should buy a duplex",
     "shortTitle": "duplex",
-    "summary": "I'm not super interested in doing it, but here is something.",
+    "summary": "I'm not super interested in real estate, but here is something.",
     "created": "2015-01-19",
     "modified": "2015-01-19",
     "type":"blog",
