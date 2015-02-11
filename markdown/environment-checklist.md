@@ -50,6 +50,22 @@ vi /etc/salt/master
 service salt-master restart
 
 
+what's done?
+git, nginx, jenkins, es, logstash, kibana, nodejs, pm2, nagios(?), ipython.
+jenkins can pull from github and my private git repo (i added jenkins and jordan public keys to the git user) jenkins
+ can build and test a node project but to get angularNonsense to really test, read and implement this: http://karma-runner.github.io/0.12/plus/jenkins.html
+
+the full salt config is in my personal git server.
+
+now i need to install aws-cli, put keys on the server and write a cron job to automate backups to s3. things to back 
+up:
+ /home/git/repos (use this gist to figure out how to create the date and whatnot - https://gist.github
+ .com/philippb/1988919 )
+ /usr/lib/jenkins (install scm-sync-configuration and configure it to sync to my git repo)
+ elsaticsearch - http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/backing-up-your-cluster.html and 
+ http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-snapshots.html and https://github.com/elasticsearch/elasticsearch-cloud-aws#s3-repository
+ 
+
 wget -O - https://bootstrap.saltstack.com | sudo sh
 vi /etc/salt/minion add file_client: local
 vi /srv/salt/top.sls
@@ -61,9 +77,10 @@ base:
     - elasticsearch
     - logstash
     - kibana
+    - nodejs
+    - pm2
     - nagios
     - ipython
-    - nodejs
     - postgres
     
 add a state tree for each state above:
