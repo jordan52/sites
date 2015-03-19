@@ -50,6 +50,9 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(flash());
 
 app.use('/', routes);
+app.route('/blog/').get(function(req, res, next) {
+    res.render('blog', { title: 'Standard Automata', posts: req.app.pages.getAllBlogPosts()});
+});
 app.use('/users', users);
 app.use(function (req, res, next) {
     if ('/robots.txt' == req.url) {
@@ -80,12 +83,12 @@ app.route('/blog/posts').get(function(req, res, next) {
 app.route('/tag/:tag').get(function(req, res, next){
     var tag = req.param('tag');
     req.flash('success', { msg: 'Content Tagged With "' + tag + '"'});
-    res.render('index', { posts: req.app.pages.getAllByTag(tag)});
+    res.render('blog', { posts: req.app.pages.getAllByTag(tag)});
 });
 app.route('/category/:cat').get(function(req, res, next){
     var cat = req.param('cat');
     req.flash('success', { msg: 'Content in the "' + cat + '" Category'});
-    res.render('index', { posts: req.app.pages.getAllByCategory(cat)});
+    res.render('blog', { posts: req.app.pages.getAllByCategory(cat)});
 });
 
 //look in app.pages for any matches
@@ -108,7 +111,7 @@ app.use(function(req, res, next) {
     }
 
     match = [match];
-    res.render('index', { posts: match});
+    res.render('blog', { posts: match});
 
 });
 

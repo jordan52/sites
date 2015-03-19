@@ -3,22 +3,23 @@ extends layout
 block content
 	.container
 		section
-			each post in posts
-				div.blog-post
-					if post.metadata.type == 'blog'
-						.blog-date=post.metadata.created
-					h2
-						a(href='#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
-					div!=post.content
-					.post-footer
-						if post.metadata.categories.length > 0
-							.post-categories.btn-group.btn-group-xs
-								.btn.btn-default.cat-tag-label categories
-								each cat in post.metadata.categories
-									a(href='/category/#{cat}').btn.btn-default #{cat}
-						if post.metadata.tags.length > 0
-							.post-tags.btn-group.btn-group-xs
-								.btn.btn-default.cat-tag-label tags
-								each tag in post.metadata.tags
-									a(href='/tag/#{tag}').btn.btn-default #{tag}
-					hr
+			h2  I'm Jordan. I do things.
+			p.
+				I don't want to sell you an e-book. I don't want you to subscribe to my newsletter and I don't want to
+				teach you how to go from zero to 10,000 viewers in 30 days. However, I do want share my ideas for doing
+				good work, building interesting things, and generally succeeding in this thing we call life.
+			p.
+				I am a dad, an entrepreneur, a software engineer, and a wanna be writer. I spend most of my time
+				teaching, coding, writing music, and pulling myself through projects I probably had no business trying. In
+				fact, I do a whole lot of things and I make a lot of mistakes along the way. This site exists
+				to teach you some tricks that will help you get good at doing whatever it is you want to do.
+		section
+			p
+				a(href='about.html') a little more about me »
+		section
+			p
+				a(href='/blog/') the blog »
+		section
+			p
+			p
+			p

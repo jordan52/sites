@@ -13,10 +13,21 @@
     ]
 }
 ---
-I thought it might be fun to build something a little more dynamic than a pandoc markdown site. My company has gotten a lot of mileage out of javascript so I figured why not.
- 
-The first round is a simple express.js site that renders markdown content. The content contains metadata that lets the site know if it is a blog post, story, etc. The code is on [bitbucket](https://bitbucket.org/jordan52/sites). I want some dynamic stuff. I might start with the collaborative sketch thingy I wrote for my band's site. It'll be a port from javascript/postgres and it will be rad.
+Thanks for visiting my site. My name is Jordan Woerndle.
 
-What about me? I like to write code, stories, and general nonsense. I'm outlining a YA novel (HA!) I snowboard, play guitar, sing (sort of), fix cars, cut grass, rehab houses, and run. I co-founded a startup. I like whisky. I am a father. I am studying statistics via finance because from what I can tell they're kind of pushing the art. I helped manage data for clinical trials, cardiovascular research studies, and did some work in neuroinformatics. So, yeah, I do a lot.
- 
-My current plan is to grow this site through the years. I hope you'll come back. If you want to contact me, go for it. I'm easy to find.
+I spend most of my time writing and thinking about code, running a VC backed startup, 
+thinking about product development and learning as much as I can about statistics and machine learning 
+through finance. A few years ago I didn't know anything about "money." Now I do, and I know a little about risk, too.
+
+I try to spend a lot of time doing things that don't come naturally and/or generally give me the flop 
+sweats. For example, I'm singing in a local band even though I have no business singing. I'm raising a son. I 
+write folk songs. I write short stories and post general nonsense on the internet (usually signed with my name.)
+
+For me, writing is about the hardest thing I do. It just doesn't come naturally. That is why I do this site; 
+It is scary and I like to do scary things. In my spare time, I rebuild cars and rehab houses and clean. 
+
+Oh, how I do like a clean house.
+
+If you'd like to know more, please [contact](contact.html) me. I'd love to hear from you.
+
+jordan

@@ -27,11 +27,12 @@ blockquote {
   font-size: 14px;
 }
 footer {
+  padding-top: 10px;
   color: #888;
 }
 section {
   min-height: 50%;
-  padding: 75px 100px;
+  padding: 5px 100px;
 }
 section:nth-child(2n) {
   background: #fdfdfd;
