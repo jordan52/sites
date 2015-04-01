@@ -26,6 +26,8 @@
 							| </g>
 							| </svg>
 					.navbar-collapse.collapse.navbar-right
+						ul.nav.navbar-nav
+							li: a(href='/blog/') blog
 						ul.nav.navbar-nav: each cat in pageCategories
 							li.dropdown(role="presentation")
 								a.dropdown-toggle(data-toggle='dropdown' href="#" role="button" aria-expanded="false") #{cat} #[span.caret]

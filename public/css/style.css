@@ -66,7 +66,7 @@ section:nth-child(2n) {
   padding: 0px;
 }
 .logo {
-  font: 45px 'Italiana', sans-serif;
+  font: 45px 'Open Sans', sans-serif;
   margin: 0px;
 }
 .navbar-fix {
@@ -76,6 +76,16 @@ section:nth-child(2n) {
 .dropdown-menu-fix li a {
   font-size: 12px;
   padding: 0px 0px 0px 10px;
+}
+.findme {
+  margin: 0;
+  padding: 0;
+}
+.findme ul {
+  list-style-type: none;
+}
+.findme li {
+  display: inline;
 }
 @media screen and (max-width: 700px) {
   section {
