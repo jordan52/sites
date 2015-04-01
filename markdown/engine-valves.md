@@ -18,7 +18,7 @@ Morning traffic, August 8th. The heat and light steal the contrast so everything
 
 Then:
 
-A car in the right lane comes alive. It is some sort of 70's or 80's big Detroit iron. Its not perfect but it is clean. It erupts with clattering engine valves as cast pistons push 500 horses through a cloud of hydrocarbons. The rear wheels slip. They don't squeal, but rather churn against soft asphalt until they chatter and hop. Cold forged steel and microcrystalline structures strain as the chassis twists and axles deform. The driveline is forced elastic as the engine stomps power strokes every 90 degrees. Sparks dance across compressed clouds of atomized fuel exploding and thundering past exhaust valves into this sun drenched morning traffic.
+A car in the right lane comes alive. It is some sort of 70's or 80's big Detroit iron with 7.2 liters of go fuck yourself. Its not perfect but it is clean. It erupts with clattering engine valves as cast pistons push 500 horses through a cloud of hydrocarbons. The rear wheels slip. They don't squeal, but rather churn against soft asphalt until they chatter and hop. Cold forged steel and microcrystalline structures strain as the chassis twists and axles deform. The driveline is forced elastic as the engine stomps power strokes every 90 degrees. Sparks dance across compressed clouds of atomized fuel exploding and thundering past exhaust valves into this sun drenched morning traffic.
 
 Then:
 

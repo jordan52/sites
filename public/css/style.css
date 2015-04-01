@@ -3,7 +3,7 @@ body {
   height: 100%;
   font-size: 14px;
   font-weight: 300;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, Verdana, sans-serif;
 }
 a {
   color: #33333d;
@@ -21,7 +21,8 @@ h6 {
 }
 p {
   font-weight: 300;
-  line-height: 1.28em;
+  line-height: 1.48em;
+  margin: 0 0 14px;
 }
 blockquote {
   font-size: 14px;
