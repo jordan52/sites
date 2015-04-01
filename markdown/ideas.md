@@ -37,4 +37,8 @@ Today I saw a post where a guy was showing off his fully-formed idea for a physi
 * cancer?
 * essential oils...
 * reports for...
+* pet care
+  * living longer
+  * danger advisories (like, bad food, bad medicine, recalls)
+* use my menfacingdivorce.com, womenfacingdivorce.com and genderseekingdivorce.com domains. 
 
