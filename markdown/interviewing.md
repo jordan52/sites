@@ -4,7 +4,7 @@
     "shortTitle": "interviewing",
     "summary": "",
     "created": "2015-03-18",
-    "modified": "2015-03-18",
+    "modified": "2015-05-01",
     "type":"general",
     "categories": [
         "general"
@@ -41,6 +41,7 @@ Interview Don'ts:
 * use racial or homophobic slurs (yes, i have seen this happen more than once)
 * be afraid to say you don't know something. An interviewer might be trying to figure out how you act under pressure and how long you'll noodle before asking for help.
 
+It is worth looking at this blog post about how a startup called sendOwl hires. The sections on resume filtering and interviews is great - <https://www.sendowl.com/blog/how-to-hire-people-for-your-startup-or-sme.html>
 
 Recruiters:
 
