@@ -9,7 +9,7 @@ block content
 						if post.metadata.type == 'blog'
 							.blog-date=post.metadata.created
 						h2
-							a(href='#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
+							a(href='/#{post.link}') #{post.metadata.title} <br> #[small #{post.metadata.summary}]
 						div!=post.content
 						.post-footer
 							if post.metadata.categories.length > 0
