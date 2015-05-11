@@ -1,6 +1,6 @@
 ---
 {
-    "title": "How to Write a Aong",
+    "title": "How to Write a Song",
     "shortTitle": "write-a-song",
     "summary": "Come write a song with me",
     "created": "2015-05-01",
