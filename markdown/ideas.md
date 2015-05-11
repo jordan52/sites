@@ -14,7 +14,7 @@
 }
 ---
 
-(this is a work in progress)
+(this is a work in progress and a joke)
 
 Today I saw a post where a guy was showing off his fully-formed idea for a physical product. It was 1/12th scale concrete blocks. Flippin' genius. I have also been spending a lot of time reading about lifestyle businesses (concrete blocks), sites, and apps that generate recurring revenue. This is an exercise in thinking about ideas that could possibly generate revenue.  
 
@@ -37,6 +37,7 @@ Today I saw a post where a guy was showing off his fully-formed idea for a physi
 * cancer?
 * essential oils...
 * reports for...
+* an entire site dedicated to what seem like shell companies that file form d's
 * pet care
   * living longer
   * danger advisories (like, bad food, bad medicine, recalls)
