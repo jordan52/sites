@@ -3,8 +3,8 @@
     "title": "Accented Short",
     "shortTitle": "accented short",
     "summary": "her",
-    "created": "2013-4-30",
-    "modified": "2013-4-30",
+    "created": "2013-04-30",
+    "modified": "2013-04-30",
     "type":"general",
     "categories": [
         "fiction"
