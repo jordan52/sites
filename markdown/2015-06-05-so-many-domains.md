@@ -25,7 +25,7 @@ start with the ones I already own.
 * **fiftytwodesign.(com|net)** - equally as boring.
 * **isthepatentsystembroken.com** - yes
 * **yakbuttertea.com** - i wasn't drunk i swear.
-* **(men|women)(facing|seeking)divorce.com - unused
+* **(men|women)(facing|seeking)divorce.com** - unused
 * **androidindie.com** - should have become a mobile dev.
 
 I want to do some industrial automation work. If I do, I will name the company *Standard Automata, 

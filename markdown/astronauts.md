@@ -4,7 +4,7 @@
     "shortTitle": "astronauts",
     "summary": "floating in stars",
     "created": "2015-05-10",
-    "modified": "2015-06-02",
+    "modified": "2015-06-07",
     "type":"general",
     "categories": [
         "fiction"
@@ -18,7 +18,8 @@ We were sitting on a platform surrounded by water with no land in sight. The air
 
 In a way, we all are.
 
-It started out as the kind of trip that needed real flashlights instead of apps. Almost none of us knew where we were going and there was no moon. There was only the fog of our breath, bare trees, and old roads. Someone up ahead called out, "The barn is just down this gravel path." I heard rocks slip behind me and a girl cry out, "OZARK!" and everyone laughed. Ozark was the perfect expletive for anyone who had just spent four hours driving the back roads of Missouri looking for a party.
+It started out as the kind of trip that needed real flashlights instead of apps. Almost none of us knew where we were going and there was no moon. There was only the fog of our breath, bare trees, and old roads. Nick called out from up ahead, 
+"Hol-lee shite. We finally made it! The barn is just down this gravel path." I heard rocks slip behind me. Sam cried out, "OZARK!" and everyone laughed. Ozark was the perfect expletive for anyone who had just spent four hours lost on the back roads of Missouri looking for a party.
 
 The barn was down that path and the party was just beyond in a 10 acre clearing that was already packed with people. Headlights and bonfires lit the field and girls danced in truck beds and guys watched and literally hollered. Everyone was young and dumb and by time we arrived I was stupid drunk. I smiled, threw my arms up and broke away from my friends. I was meeting people. I think I met everyone but most importantly, I met her. I never did ask her name. 
 
@@ -45,4 +46,4 @@ At the top was a thin section of concrete that jutted into the water like a pier
 
 I started to say something. She raised her index finger to pouted lips and said, "shhhhhhhhhh, just watch."
  
-That was my first trip to outer space.
+That was my second trip to outer space.
