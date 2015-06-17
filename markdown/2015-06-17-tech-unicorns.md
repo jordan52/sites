@@ -26,7 +26,7 @@ than one:
 http://mebfaber.com/2015/06/17/would-you-rather-own-the-unicorns-or-facebook/
 
 In that article there is a link to a slideshare that, in fact comes from a bennedict evans post. You might as well
-check out the source becasue there's a podcast there, too:
+check out the source because there's a podcast there, too:
 
 http://ben-evans.com/benedictevans/2015/6/15/us-tech-funding
 
