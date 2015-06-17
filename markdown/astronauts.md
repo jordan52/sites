@@ -47,3 +47,13 @@ At the top was a thin section of concrete that jutted into the water like a pier
 I started to say something. She raised her index finger to pouted lips and said, "shhhhhhhhhh, just watch."
  
 That was my second trip to outer space.
+
+I thought about that night while I was sitting on a rooftop, waiting for the sun to rise. I always loved being _in_ the sky so I guess that's why I spent those lost days on roofs instead of somewhere else. The sun was rising and a ladder popped up from below.
+ 
+"How long have you been up here?" my boss asked.
+
+"A while." I replied, "Is it time to begin?"
+
+"yeah"
+
+He threw me a scraper and with one fluid motion I grabbed it out of the air and started tearing off shingles. There was a rhythm to it - scrape-lift-pull-throw, scrape-lift-pull-throw, scrape-lift-pull-throw, scrape-lift-pull-throw. A good roofer could annihilate one square every three minutes. I was faster back then. Second pass was to pull fragments and nails. The sun rose though low clouds and streaks of light shot out like searchlights looking for (what?) in this suburban town. Third pass drove leftover nails flat into the plywood. Clean slate, good foundation. The sun had come back to us and painted the air over our heads a washed out blue and 

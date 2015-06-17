@@ -4,7 +4,7 @@
     "shortTitle": "write-a-song",
     "summary": "Come write a song with me",
     "created": "2015-05-01",
-    "modified": "2015-05-01",
+    "modified": "2015-06-10",
     "type":"blog",
     "categories": [
         "music"
@@ -40,3 +40,19 @@ I love that. let's try to write some songs. I'm interested in writing a country 
 * go back to logic in a clever, hooky way, heaven/hell hot cold, head to toe
 * silence!
 
+Ok, so this is very much more about the craft of songwriting rather than inspiration. That's good! I've been on twitter a lot lately trying to drum up followers and you know what? Everyone is chock full of inspiration, but not many people are doing things.
+
+I like doing things.
+
+Tangent over! Dan Harmon is kind of awesome. If you don't know who he is, look him up. He says that if you want to write, just write. There's no other way to get better at it. He does offer some advice on a story arc. It isn't anything groundbreaking, but for some reason I have to be constantly reminded of it. He says:
+
+1. A character is in their comfort zone.
+2. They want something
+3. They enter an unfamiliar situation
+4. They Adapt
+5. They get what they wanted
+6. They pay a heavy price for it
+7. They return to the familiar situation
+8. They have changed.
+
+Good advice! Now I need to buckle down and write/record that album!
