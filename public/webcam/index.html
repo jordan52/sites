@@ -28,7 +28,7 @@
 
 </head>
 
-<body>
+<body onLoad="init()">
 
 <div id="container">
 
@@ -36,13 +36,16 @@
 
     <video autoplay></video>
     <button>Take snapshot</button>
-    <canvas></canvas>
+    <div style="position: relative;">
+        <canvas id="layer1"
+                style="position: absolute; left: 0; top: 0; z-index: 0;"></canvas>
+        <canvas id="layer2"
+                style="position: absolute; left: 0; top: 0; z-index: 1;"></canvas>
+    </div>
 
     <p>Draw a frame from the video onto the canvas element using the <code>drawImage()</code> method.</p>
 
     <p>The variables <code>canvas</code>, <code>video</code> and <code>stream</code> are in global scope, so you can inspect them from the console.</p>
-
-    <a href="https://github.com/webrtc/samples/tree/gh-pages/src/content/getusermedia/canvas" title="View source for this page on GitHub" id="viewSource">View source on GitHub</a>
 
 </div>
 
