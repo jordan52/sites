@@ -16,26 +16,33 @@
 Summary
 =======
 
-Highly motivated full stack software engineer with 19 years of professional and research experience. Proficient in software architecture, project management, business development, data analysis, and visualization in a wide range of industries. Strategic thinker who uses a risk based approach to drive early stage projects to success. Proven ability to communicate highly technical information to varied audiences. Possesses a firm commitment to team building and agile methodologies. Has experience with low level hardware interfaces for data acquisition and control. 
+Highly motivated **Full Stack Software Engineer** with 19 years of professional and research experience. Proficient in 
+project management, architecture, business development, data analysis, and visualization across a wide range of industries. Strategic thinker who uses a risk based approach to drive early stage projects to success. Proven ability to communicate highly technical information to varied audiences. Possesses a firm commitment to team building and agile methodologies. Has experience with low-level hardware interfaces for data acquisition and control.
+
+Technologies
+======
+Java, Spring, Hibernate, Javascript, Node, Angular, JQuery, Python, Pandas, NumPy, SciPy, D3, R, SQL, C, OpenGL, Hadoop, HBase, Virtualization, AWS, Agile Methodologies, JIRA, Crucible, Confluence, Photoshop, Illustrator, DICOM, AVR Microcontrollers and sensors
+
 
 Experience
 ========
 
-Founder
+Cofounder / CIO
 
-Datanalytics Inc.
+Datanalytics Inc. DBA Juristat
 
 February 2012 - Present
 
-* Cofounded a VC backed startup that developed cutting edge, big data analytics products in the legal space
-* Managed day to day operations including accounting, licensing, hiring, and key technical decisions through three rounds of financing
-* Designed and built the foundation for customer facing, revenue generating web application (https://juristat.com)
-* Applied Natural Language Processing algorithms and advanced statistical analysis to court case and United States 
-Patent Office datasets
-* Applied time series analysis and Monte Carlo simulations to predict outcomes
-* Managed custom projects for Fortune 500 companies and large law firms
+Cofounded a VC backed startup that developed cutting edge, big data analytics products in the legal space.
 
-Technologies Used: Java, Hibernate, Spring, Javascript, JQuery, Angular, Node, Python, Pandas, R, SQL, Hadoop, HBase, ZooKeeper, Chef, Virtualization, Amazon Web Services, Agile Methodologies
+* Managed day to day operations including accounting, licensing, hiring, and making key technical decisions through three rounds of financing totalling $1.8 million.
+* Designed and built the foundation for Juristat's customer facing, revenue generating web application 
+https://juristat.com.
+* Led the product team of 4 employees for the development of advanced, web-based visualizations of patent data that gave attorneys an advantage in patent filing strategy.
+* Applied Natural Language Processing algorithms and advanced statistical analysis to court case and United States Patent Office data sets to identify and predict behaviors of actors within the legal system.
+* Managed custom projects for Fortune 500 companies and large law firms to provide them with key advantages over their
+ competition using data.
+
 
 Analyst II
 ----------
@@ -46,13 +53,12 @@ Washington University School of Medicine
 
 September 2011 - Present
 
-* Lead the validation team for the lab's FDA CFR Part 11 system validation effort
-* Aligned processes for FDA compliance including CFR Part 11 and GCP certification
-* Designed and implemented various projects to support neuroimaging and imaging informatics research
-* Participated in a full lifecycle effort to bring the lab up to compliance to run regulated clinical trials
-* Authored software development SOP's 
+Designed and implemented various projects to support neuroimaging and imaging informatics research.
 
-Technologies Used: Java, Hibernate, Spring, Python, Javascript, AJAX
+* Lead the lab's FDA CFR Part 11 validation team to certify the system for use as the primary informatics platform in a multi-site Alzheimer's study.
+* Participated in a full lifecycle effort to bring the lab up to FDA compliance including CFR Part 11 and GCP certification which allowed the lab to run regulated clinical trials eliminating the need for a costly, third-party clinical research organization.
+* Maintained and enhanced the open source imaging informatics platform, XNAT, as part of an 8 person team in an agile 
+environment.
 
 Analyst II, Architect, Developer, Project Manager
 ----------------------------------------------------
@@ -63,14 +69,13 @@ Washington University School of Medicine
 
 April 2005 - September 2011
 
-* Aligned processes and procedures to assure FDA and HIPAA compliance
-* Designed and developed a fully configurable, web-based research database
-* Purchased, installed, configured, and maintained various intra-site imaging and data management and reporting systems 
-* Streamlined processes using technology
-* Developed and documented disaster recovery protocols for patient records
-* Learned statistical analysis on the job
+Drove a variety of projects to success as the lab’s key technical advisor and developer in a wide range of research studies across multiple fields of medicine.
 
-Technologies Used: J2EE, Hibernate, Spring, SQL, Python, SAS, R, MS Office, OSX, Windows, Linux, PhotoShop, Illustrator, DICOM, Shell Scripting 
+* Designed and developed a fully configurable, web-based research database that, for the first time, permitted secure sharing of patient data across studies and PI’s. The database enhanced the productivity and reliability of research for those labs.
+* Aligned processes and procedures to assure FDA and HIPAA compliance which enabled the lab to manage clinical trial 
+data in-house.
+* Purchased, installed, configured, and maintained various intra-site imaging and data management and reporting systems using strategies to save thousands of dollars.
+* Developed, implemented, and documented disaster recovery protocols for patient records.
 
 Software Developer, Project Lead
 ------------------------------------
@@ -81,11 +86,11 @@ Saint Louis, Missouri
 
 June 2003 - April 2005
 
+Responsible for moving development and maintenance of a key infrastructure product from the Manhattan office to St. Louis, Missouri.
+
 * Enhanced, designed, and developed a real time application configuration server and management interface in a world-wide enterprise environment 
 * Managed all aspects of the projects including customer relationships, architectural design, development, management, and maintenance 
 * Developed skills by preparing technical and functional documentation, designing solutions, and managing customer expectations in an enterprise environment
-
-Technologies Used: OO, Design Patterns, Java, J2SE, J2EE, ASP, VB, IIS, JDBC, ODBC, Sybase ASE, Transact-SQL, Apache Commons projects, Log4J, C/C++, DHTML, JavaScript, CSS, XML, SAX, VNC, SourceSafe, MS Office, Ant, Shell Scripting, CDONTS, Eclipse, JBuilder
 
 Analyst, Architect, Senior Developer, Project Manager
 ----------------------------------------------------------
@@ -96,13 +101,13 @@ Saint Louis, Missouri
 
 July 2000 - June 2003
 
-* Lead a team of developers and graphic designers to architect, develop, and extend a secure, web reporting application for LiveWire's largest account 
-* Managed all aspects of the project including customer relationships, architectural design, development, management, and maintenance 
-* Gained valuable experience by gathering client requirements, preparing technical and functional documentation, designing solutions, and managing customer expectations 
-* Project Lead and Solutions Architect for several online total compensation statements 
-* Awarded First Place: Best Web-Based Application - 2001 stlwebdev.org Web Site Awards
+Multi-faceted team member in a small, fast-paced web development shop.
 
-Technologies Used: OO, Design Patterns, Java, J2SE, J2EE, Servlets, JSP, ASP, VB, COM(+), ISAPI, MTS, DTS, PHP, Tomcat, Apache, IIS, JDBC, ODBC, SQL Server, mySQL, C/C++, DHTML, JavaScript, CSS, XML, VNC, SourceSafe, CVS, MS Office, Visio, Dynamic PDF Generation, SSL, DNS, SSH, Ant, Make, Shell Scripting, CDONTS, Visual StudioForte (Sun One Studio), Eclipse, JBuilder, XP, Agile
+* Lead a team of developers and graphic designers to architect, develop, and extend a secure, web reporting application for LiveWire's largest account.
+* Managed all aspects of the project including customer relationships, architectural design, development, management, 
+and maintenance.
+* Project Lead and Solutions Architect for several clients in efforts to move HR activities and forms online to save thousands of dollars in administrative costs.
+
 
 Technical Evangelist, Management/Leadership Development Program Trainee
 -----------------------------------------------------------------------------------
@@ -113,13 +118,8 @@ Management Systems Group
 
 June 1999 - July 2000 
 
-* Developed the architecture and strategy for a mission critical client-server system 
-* Developed COM components to connect third-party software to existing legacy systems 
-* Integrated XML with MS Site Server to create a "smart" knowledge management system 
-* Helped establish Anheuser-Busch's position on the use of XML within the company 
-* Designed and built intranet sites using three-tier architecture
+Worked in various technical roles across several departments as part of a program for recent graduates designed to give them a deep understanding of A-B’s business before transitioning into an early management position.
 
-Technologies Used: COM, DNA, ISAPI, Visual C++, VB, VBScript, ASP, MS Site Server, IIS, LDAP, MSMQ, XML/XSLT, PhotoShop
 
 Developer, Researcher
 -------------------------
@@ -130,11 +130,7 @@ Washington University School of Medicine
 
 May 1996 - May 1999
 
-* Developed high performance medical imaging applications to visualize large 4D and tagged MRI datasets 
-* Miscellaneous graphic utilities to manipulate and display DICOM and DSR-TIFF image files 
-* Debugged and extended existing software packages
-
-Technologies Used: GCC, GDB, Unix Shell, Make, X Windows, Motif, OpenGL, VTK, Irix, Solaris, DICOM, HP-DSR, MRI, Ultrasound
+Developed high performance medical imaging applications to visualize large 4D and tagged MRI datasets and miscellaneous graphic utilities to manipulate and display DICOM and DSR-TIFF image files.
 
 Education
 =======
@@ -144,23 +140,25 @@ B.S. in Computer Science (1999)
 
 GPA: 3.77 / 4.0
 
+Training
+======
+
 * Good Clinical Practice (GCP) Training‚ META Solutions, Inc. (2012)
-* CITI: Basic Human Subjects Eduction for Biomedical Investigators‚ WUSM (2011)
+* CITI: Basic Human Subjects Education for Biomedical Investigators‚ WUSM (2011)
 * HIPAA Compliance‚Äù Washington University School of Medicine (2005)
-* Project Management Success Series (A-B Co. Training)
+* Project Management Success Series (A-B Co. Training) 1999
 
 Patent
 ====
 
-Andrew Winship, Robert Ward, Jordan Woerndle  **Systems and methods for legal data processing** Application US14192436
+**Systems and Methods for Legal Data Processing**, Woerndle, Jordan D., et al. United States
+Provisional Patent Application 14/192,436 filed February 27, 2014.
 
 Awards
 ====
 
 Capital Innovators Spring 2013
- 
 Arch Grants 2013 Recipient with Follow-on Funding
-
 St. Louis Regional Web Site Best Web-based Application 2001: 1st Place Anheuser-Busch Total Rewards
 
 > The Total Rewards Intranet site developed for Anheuser-Busch, was
@@ -169,5 +167,12 @@ St. Louis Regional Web Site Best Web-based Application 2001: 1st Place Anheuser-
 > personalized information." . . . "The application created for Anheuser Busch
 > employees really gives them complete feedback on how they are doing and
 > where they might improve."
+
+Public Repositories
+====
+
+<https://bitbucket.org/jordan52>
+
+<https://github.com/jordan52>
 
 ### References, sample code and demos available upon request
