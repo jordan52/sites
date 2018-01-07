@@ -25,16 +25,15 @@ The barn was down that path and the party was just beyond in a 10 acre clearing 
 
 She was pretty and all I know for sure is she asked why I had a box of wine. I pulled the silver bag out of the box and yelled, "Because it is SPACE WINE!" She asked if I had ever been to space and I said no and she asked if I'd like to and I said yeah. She paused to really look at me. Her bottom lip caught on her left lateral incisor and her eyes were green and she said, "Come with me?" She paused to touch my antecubital fossa, "I have something for you."
 
-Then we were in her shitty car and listening to bands I didn't know. I kept stopping myself from asking where we were going or why her left arm was in a cast. She threw trash out her window and drove quickly. Soon we were off main roads and driving past "no trespassing" signs. She stopped at a gate and got out to open it. I thought maybe I should run but I didn't. We drove up what seemed like old coal mining roads. Up and up and then she stopped and turned off the car.
+Then we were in her shitty car and listening to bands I didn't know. I stopped myself from asking where we were going or why her left arm was in a cast. She threw trash out her window and drove quickly. Soon we were off main roads and driving past "no trespassing" signs. She stopped at a gate and got out to open it. I thought maybe I should run but I didn't. We drove up what seemed like an old mining road. Up and up and then she stopped and turned off the car.
 
 "Can you swim?" she asked.
 
 "Yes."
 
-"Good. Get out."
+"Good. Get out." She threw open her door and hopped out so I did too.
 
-There were wires and concrete buildings. We were at some sort of electric plant at the top of an Ozark mountain in 
-the middle of nowhere. It was dark. The only sound was gravel crushing under our shoes.
+There were wires and concrete buildings. It looked like we were at some sort of electric plant at the top of an Ozark mountain. It was dark. The only sound was gravel crushing under our shoes.
 
 "What is this place?" I asked.
 
@@ -44,30 +43,56 @@ We climbed.
 
 At the top was a thin section of concrete that jutted into the water like a pier. We walked to the very end and sat next to each other. The reservoir was full almost to the top and we must have been on the tallest mountain in the area. There was nothing to see but sky and what seemed like the biggest infinity pool ever built.
 
-I started to say something. She raised her index finger to pouted lips and said, "shhhhhhhhhh, just watch."
+I started to say something. She raised her index finger to pouted lips and said, "shhhhhhhhhh, just watch." And I did and the earth melted away and I felt like we were awash in a sea of stars - some falling, some shooting, and she pulled me in to her with an unbroken arm.
  
 That was my second trip to outer space.
 
-I thought about that night while I was sitting on a rooftop, waiting for the sun to rise. I always loved being _in_ the sky. I guess that's why I spent those lost days on roofs instead of somewhere else. The sun was rising and a ladder popped up from below. Solid boots clanged up ladder rungs. 
+I thought about that night while I was sitting on a rooftop, waiting for the sun to rise. I always loved being _in_ the sky. I guess that's why I spent those lost days on roofs instead of somewhere else. The sun was rising and a ladder popped up from below. Boots - solid, handmade boots - clanged up ladder rungs. My boss' head popped up over the edge.
 
-"How long have you been up here?" my boss asked.
+"How long have you been up here?" he asked.
 
 "A while." I replied, "Is it time to begin?"
 
-"Yeah”
+"Yeah.”
 
-He threw me a scraper and with one fluid motion I grabbed it out of the air and started tearing off shingles. There was a rhythm to it - scrape-lift-pull-throw, scrape-lift-pull-throw, scrape-lift-pull-throw, scrape-lift-pull-throw. A good roofer could annihilate one square every three minutes. I was faster back then. The second pass was to pull fragments and nails. The sun had come back to us and painted the air over our heads in a washed out blue gradient. Streaks of light shot out though low clouds like searchlights looking for (what?) in this suburban town. The third pass drove leftover nails flat into the plywood. Clean slate, good foundation. The sun was higher now and turned dew to steam and made my boots stick, like walking on some sort of rancid taffy. Tar paper rolled across the roof and we got to work. 
+He threw me a scraper and with one fluid motion I grabbed it out of the air and started tearing off shingles. There was a rhythm to it - 
 
-Set-square-roll-tack, set-square-roll-tack, set-square-roll-tack, set-square-roll-tack. Cut. Done.
+scrape-lift.  pull-throw.
+scrape-lift.  pull-throw.
+scrape-lift.  pull-throw.
+scrape-lift.  pull-throw. 
 
-A break for water. Warm water that tasted like the inside of an old, plastic cooler. The sun was baking and we were back on the roof, kneepads and boots, setting shingles. More noise, more rhythm, this time a symphony of tack-tack-tack drop, tack-tack-tack drop, tack-tack-tack drop. Three hits per shingle. 50 shingles in a square and we were on a 45 square roof. I listened and counted. 6,750 tacks with an average of 12 nail gun misfires per square. 500 nails per clip gave pause to reload before another set of tack-tack-tack until the edge. Edges meant cut shingles and typically 2 nails but edges slowed the rhythm and any trash was pushed over the edge.
-The process continued and my mind went blank. I had already quit counting as we broke for a quick lunch of cool coffee, funyuns and pork rinds and right back up on the roof with more tack-tack-tack. Thinking stopped.
+A good roofer could annihilate one square every three minutes.I was faster than most back then. After the first pass pulling shingles we had to take a second pass. You know, to pull fragments and nails. We had to get the roof clean, almost pristine. It took a few hours to get that far. By then, the sun was high enough to paint the air over our heads with a washed out blue gradient. Streaks of light shot out though low clouds like searchlights looking for (what?) in this suburban town. The third pass drove leftover nails flat into the plywood. Clean slate, good foundation. The sun was higher now which turned the dew to humidity and softened the tar. It made my boots stick, like walking on some sort of rancid taffy. We rolled tar paper across the roof and went to work. 
+
+Set-square.  roll-tack.
+Set-square.  roll-tack.
+Set-square.  roll-tack.
+Set-square.  roll-tack.
+Cut. done.
+
+We took breaks for water. Warm water that tasted like the inside of an old, plastic cooler. The sun was baking and in minutes we were back on the roof with nail guns, kneepads and boots, setting shingles. More noise, more rhythm. This time a symphony of tack-tack-tack drop, tack-tack-tack drop, tack-tack-tack drop. Three hits per shingle. 50 shingles in a square and we were on a 45 square roof. 
+
+I listened and counted to keep my thoughts at bay. 6,750 tacks with an average of 12 nail gun misfires per square. 500 nails per clip gave pause to reload before another set of tack-tack-tack until the edge. Edges meant cut shingles and typically 2 nails but edges slowed the rhythm and any trash was pushed over the edge.
+The process continued and my mind went blank. I finally quit counting as we broke for a quick lunch of cool coffee, funyuns and pork rinds and right back up on the roof with more tack-tack-tack. Thinking stopped.
 
 Blank.
 
 This life.
 
-When I came to, I noticed a truck idling in the driveway. My cheap Casio watch said 1:09 PM and we only had 9 Squares to go. TACK-TACK-TACK drop. The driver was in his air-conditioned cab and talked on speaker phone. We called him boss even if he wasn't. Formalities don't matter much in this business. Roofers. We started early to avoid the heat. We drank from hoses and generally did our best to lay low. Stats on this crew: 67% were less than 8 months out of prison. Median age - 24.5 years. 93% drink. 23% were illegal. One was an animal. Meth-amphetamines? weed? heroin? cocaine? Yes. I stood on the roof’s edge and watched ‘boss’ mouth words into his phone. I was dizzy with heat and shaking for something to drink and I waved and swayed. The first breeze of the day evaporated the sweat on my neck and my soaked shirt pulled away from my skin.
+When I came to, I noticed a truck idling in the driveway. My Casio watch said 1:09 PM and we only had 9 Squares to go. TACK-TACK-TACK drop. The driver was in his air-conditioned cab and I could hear the speaker phone through rolled-up windows. We called him boss even if he wasn't. Formalities don't matter much in this business. 
+
+Roofers. 
+
+We started early to avoid the heat. We drank from dirty hoses and generally did our best to lay low. Stats on this crew: 
+
+67% were less than 8 months out of prison. 
+Median age - 24.5 years. 
+93% were alcoholics. 
+23% were illegal. 
+One was an animal. 
+Methamphetamines? weed? heroin? cocaine? Yes. 
+
+I stood on the roof’s edge and watched ‘boss’ mouth words into his phone. I was dizzy with heat and shaking for something to drink and I waved and swayed. The first breeze of the day evaporated the sweat on my neck and I pulled my sweat soaked shirt away from my skin.
 
 He rolled his window down and yelled, "Ese. Come down here, por favor."
 
@@ -76,14 +101,13 @@ So, I did. 14 rungs down the ladder and I walked in the shade and stood on his p
 "How's it going up there, Chief?" he asked. 
 
 “Good.”
-
 "Are you going to finish today?"
 
 "Yes, sir. The underlayment was in good shape and we didn't find any leaks. We will be done by three or four at the latest." I said.
 
 He tilted his head, just a bit, “Well then, ok. How is the crew today?"
 
-"We're doing very well, thank you. Pablo's back is healing nicely. I think he'll be 100% in a week or two."
+"We're doing very well, thank you. Alejandro's back is healing nicely. I think he'll be 100% in a week or two."
 
 "That was a nasty fall, wasn't it?" he said.
 
@@ -97,20 +121,20 @@ He paused, just for a bit and then said, "Do you mind if I ask you a question?"
 
 "I'm from Madison.” I said. “Adopted when I was a baby. My parents are white as can be."
 
-"That explains a lot. What are you doing out here working on roofs, then?" he asked.
+"That explains a lot. What are you doing out here working on roofs?" he asked.
 
-"I found my biological parents a few years ago in Mexico and I have a brother. He needs money to go to school, so I'm out here working and sending the money home to him. A couple of the guys on this crew know my real family."
+"I found my biological parents a few years ago in Mexico. I have a brother. He needs money to go to school. So, I'm out here working and sending the money home to him. A couple of the guys on this crew know my real family."
 
 —--
 this is not yet written:
 The man, who confesses to being adopted, also, says he never met his biological parents and asks how this kid found his.
 —--
 
-He handed me an envelope. "Here's tomorrow's job. Take care."
+"Huh." He handed me an envelope. "Here's tomorrow's job. Take care."
 
 "You too."
 
-The man put his truck in reverse and backed down the driveway. 14 rungs and I was on the roof. 1:19pm. 9 squares to go. TACK-TACK-TACK. drop. TACK-TACK-TACK-SNAP. I shouldn't have said Madison. TACK-SNAP-SNAP. A cloud broke the sun. SNAP-SNAP-SNAP. My hangover was finally going away. SNAP-SNAP-SNAP. water. scrape. place. tack tack tack. scrape. place. tack tack, etc.
+Boss put his truck in reverse and backed down the driveway. 14 rungs and I was on the roof. 1:19pm. 9 squares to go. TACK-TACK-TACK. drop. TACK-TACK-TACK-SNAP. I shouldn't have said Madison. TACK-SNAP-SNAP. A cloud broke the sun. SNAP-SNAP-SNAP. My hangover was finally going away. SNAP-SNAP-SNAP. water. scrape. place. tack tack tack. scrape. place. tack tack, etc.
 
 Thinking didn’t stop.
 
@@ -141,35 +165,42 @@ Why the hell not.
 Running Away
 
 ----
-(note, this part has not been edited at all, it is even in the wrong tense)
 
-He left and I worked the rest of the day. Now I'm here on a futon mattress spread on the floor, trying to sleep. My hands hurt. I hurt. I'm no where near sleep. I think:
+He left and we worked the rest of the day finishing and cleaning the site. 
+
+I found myself lying on a futon mattress spread out on a wood floor, trying to sleep. My hands hurt. I hurt. Nowhere near sleep I thought:
 
 _I shouldn't have said Madison._
 
-So, I get up. Our room is dark but the moon is out so I can see just well enough to pull on my jeans, find my glasses and hat, and get to the door without crashing into anything or stepping on anyone. Five of us share this room. It isn't a big deal if i wake anyone up but I don't want to hassle anyone and it'll be better when they realize I'm gone. They'll wonder when I left and I like that for some reason. It strikes me. Some sort of mystery. I guess. It is silly, i know, but I try. Always try. Pocket check: Wallet. Keys. Phone. Ear plugs. Rock.
+I got up. The room was dark but the moon was out. I could see just well enough to pull on my jeans, find my glasses, hat, and get to the door without crashing into anything or stepping on anyone. Five of us shared that room. It wasn't a big deal if i woke anyone up but I didn't want to hassle anyone and it probably made it be better when they realized I was gone. I imagine they wondered what time I dissappeard. I liked that for some reason. It was striking somehow. Some sort of mystery, I guess. It was silly. I knew it was silly, but I try. Always try. I checked my pockets: Wallet. Keys. Phone. Ear plugs. I was ready to run.
 
-Jacket on. Door open. I slip outside and slowly pull the door closed. I keep the door handle turned and release it slowly so the catch doesn't click. Slight squeak, but definitely nothing loud enough for anyone to care.
+Jacket went on. Door opened. I slipped outside and slowly pulled the door closed. I kept the door handle turned and released it slowly so the catch didn't click. There was a squeak, but definitely nothing loud enough for anyone to care.
 
-I walk.
+I walked.
 
-Porch to steps to driveway to sidewalk to the corner. The crew shares a small apartment in a large complex. So many dumpsters. They don't even try to hide them. Cars are parked everywhere. Orderly, in spaces, but again, like the dumpsters. So many cars. Walking around this place alone at night makes my stomach sick and my balls tingle. I stop, turn around, and walk.
+Porch to steps to driveway to sidewalk to the corner. 
 
-Corner to sidewalk to driveway to steps to porch. I'm back at the apartment where I open the door slowly, silently. I'm nervous, I guess. There isn't really a good way to say this, but I have to poop. So, I do. I brush my teeth slowly, shake the water off the toothbrush and put it in my pocket. Silently down the hall to the kitchen. I grab my phone charger and stuff it in my pocket. I climb on the counter to reach far behind the refrigerator and up in the crack between the cabinet and wall. My envelope. My savings. All the cash I have. Now I'm at the front door. I silence my phone and put it in airplane mode.
+The crew shared a small apartment in a large complex. So many dumpsters. They didn't even try to hide them. Cars were parked everywhere. Orderly, in spaces, but again, like the dumpsters, there were so many cars. Walking around this place alone at night always made my stomach sick and my balls tingle. I stopped, turned around, and walked.
 
-Again, door to porch to steps to driveway to sidewalk to the corner. The moon is higher in the sky. Fucking moon. Hanging there, looking over us with its fat, white, judging face. Coming as going as it pleases, cowering behind clouds in storms. It doesn't even make its own light. It just reflects. Whatever, fucking moon.
+Corner to sidewalk to driveway to steps to porch. 
 
-I guess I have a plan.
+I was back at the apartment where I opened the door slowly, silently. I was nervous, I guess. There wasn't really a good way to say this, but I had to poop. So, I did. I then brushed my teeth slowly, shook the water off the toothbrush and put it into my pocket. I walked silently down the hall to the kitchen where I grabed my phone charger and stuffed it in my pocket. I climbed on the counter to reach far behind the refrigerator and up into the crack between the cabinet and wall. I found it. My envelope. My savings. All the cash I had. In seconds I was at the front door. I silenced my phone and put it in airplane mode.
 
-I'm not very good at sleeping which is why I take walks on so many nights. The subdivision next to the apartments is a big one whose houses were built in the sixties or seventies. They all have three bedrooms and a garage and are either a ranch or a 2 story. Some houses are set on the lot at 90 degrees which makes it almost seem like there are four different floor plans. There aren't. There are 172 ranch homes and 97 two-story. 212 are 100% siding. One is stucco. The rest have some brick but are mostly siding. 57 homes are on larger lots that allow for either a two car garage or 1 car garage plus a dining room. While walking around you can get a pretty good idea the builder wasn't up for giving the buyers too many options.
+Again, porch to steps to driveway to sidewalk to the corner. 
 
-Over the years, people have added on porches, window treatments, landscaping, and decks but it's hard to get any sense of individuality in this _neighborhood. The cynic in me says everyone inside these houses are exactly the same, but I know better.
+The moon was higher in the sky. Fucking moon. It hung there and looked over us with its fat, white, judging face. It came and went as it pleased, cowered behind clouds in storms. It didn't even make its own light. It just reflected. Whatever, fucking moon.
 
-The area around here is completely flat. There are no walk-out basements. However, some people put a basement door in their house by digging a hole, forming concrete stairs and adding a small drain. I like how flat it is because some nights I run. Runners seem to be less suspicious and I like that.
+I had a plan, I guess.
 
-Tonight I'm headed to 5678 Pine Street whose porch light burned out late last month. I arrive and do a quick 360 to see if anyone is watching. No one. I sprint up to the side of the house next to the garage and sit up against the house.
+I was not very good at sleeping which is why I took walks on so many nights. The subdivision next to the apartments was a big one whose houses were built in the sixties or seventies. They all had three bedrooms and a garage and were either a ranch or a 2 story. Some houses were set on the lot at 90 degrees which made it almost seem like there were four different floor plans. There weren't. There were 172 ranch homes and 97 two-story. 212 were 100% siding. One was stucco. The rest had some brick but were mostly siding. 57 homes were on larger lots that allowed for either a two car garage or 1 car garage plus a dining room. If you took a walk around there you'd get a pretty good idea the builder wasn't up for giving the buyers too many options.
 
-Here, I wait. The woman who lives here tends to get home late and she's more into cats than dogs. It's just after midnight and she isn't home. So, I sit cross legged, or Indian style as they said in elementary school which gives me some fantods so I lie supine and then semi-supine parallel to the house; against the house.
+Over the years, people had added on porches, window treatments, landscaping, and decks but it was hard to get any sense of individuality in that neighborhood. I pretended everyone inside those houses were exactly the same.
+
+The area around there was completely flat. There were no walk-out basements. However, some people has a basement door installed. They dug a hole, formed concrete stairs and added a small drain at the bottom to catch the rain. I liked how flat the neighborhood was because some nights I would run. Runners seemed to be less suspicious and I liked that.
+
+That night I was headed to 5678 Pine Street whose porch light burned out late last month. I arrived and did a quick 360 to see if anyone was watching. No one was. I sprinted around the side next to the garage and sat up against the house.
+
+There, I waited. The woman who lived here tended to get home late and she was more into cats than dogs. I looked at my phone. It was just after midnight and she still wasn't home. I sat cross legged, or Indian style as they said in elementary school which gave me some fantods so I lie supine and then semi-supine parallel to the house; against the house.
 
 A mosquito buzzes in my ear and my balls are tingling and my heart rate is up and i hear a truck and the garage door opens. Headlights flash on the neighbors house and disappear as her blue Ford Explorer rumbles and squeaks its way into the garage. I roll to my hands and knees and crawl quickly to the corner of her house. I peek around the corner and catch the taillight as her truck finishes going in. I follow it in on the passenger side staying low and moving quickly with my head up to watch the mirror making sure I'm not in it. She keeps hers pointed high so I'm in the clear. The truck stops and she clicks it into park and I roll underneath. The exhaust is 2" from my face and the heat from the catalytic converter is almost burning my left leg. The truck turns off and I hear her shuffling for her purse or bags or whatever. I don't care. I don't move.
 
